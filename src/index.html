@@ -1,0 +1,58 @@
+<%
+var seasonData = { 1995: null, 2001: null, 2010: null, 2015: null, 2016: null };
+for (var key in seasonData) {
+  var data = json["MarinersTracker_" + key];
+  seasonData[key] = data;
+  var wins = 0;
+  var losses = 0;
+  for (var i = 0; i < data.length; i++) {
+    var item = data[i];
+    if (item.won == "W") {
+      wins++;
+    } else {
+      losses++;
+    }
+    item.wins = wins;
+    item.losses = losses;
+    if (item.notes) item.notes = item.notes.trim();
+  }
+}
+seasonData[2016] = seasonData[2016].filter(function(g) { return g.won });
+%><!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body>
+
+    <responsive-child>
+      <main class="interactive">
+        <h2>Mariners tracker</h2>
+        <p class="chatter">
+          This space intentionally left blank.
+        </p>
+        <div class="canvas-container">
+          <canvas class="tracker"></canvas>
+          <div class="tooltip"></div>
+        </div>
+        <ul class="key"></ul>
+        <div class="credit">
+          Thomas Wilburn, Sean Quinton / The Seattle Times
+        </div>
+      </main>
+    </responsive-child>
+
+    <script>
+window.seasons = <%= JSON.stringify(seasonData) %>;
+    </script>
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
