@@ -1,10 +1,10 @@
 <h3>Game <%= data.game %></h3>
 <div class="row">
   <div class="cell">
-    <h4>This season:</h4>
-    <% var twentySixteen = data.selected[2016]; var remaining = [1978, 1995, 2001, 2015]; %>
+    <h4>2016 season:</h4>
+    <% var twentySixteen = data.selected[2016]; var remaining = [2015, 2001, 1995, 1978]; %>
     <b><%= twentySixteen.date %></b> <%= twentySixteen.opponent %><br>
-    Final score: <b><%= twentySixteen.score %></b><br>
+    Final score: <b><%= twentySixteen.won %>, <%= twentySixteen.score %></b><br>
     Record: <b><%= twentySixteen.wins %>-<%= twentySixteen.losses %></b>
   </div>
   <div class="cell">

@@ -28,8 +28,9 @@ var palette = {
   2015: hexToRGBA(0x003166, .7),
   2016: hexToRGBA(0xf88a47, 1)
 };
-console.log(palette);
 var padding = 2;
+var offLine = 2;
+var featureLine = 4;
 
 var container = document.querySelector(".canvas-container");
 var tooltip = document.querySelector(".tooltip");
@@ -46,13 +47,13 @@ for (var key in data) {
 longest -= 1;
 
 //once we have bounds, create the notes
-for (var y in data) {
-  var season = data[y];
+years.forEach(function(year) {
+  var season = data[year];
   season.forEach(function(item, game) {
     if (!item.notes) return;
     var dot = document.createElement("div");
     dot.className = "note-dot";
-    dot.innerHTML = `<div class="note"> ${item.notes} </div>`
+    dot.innerHTML = `<div class="note"><h3>Game ${game}, ${year}:</h3>${item.notes} </div>`
     var x = (game / longest) * 100;
     dot.style.left = x + "%";
     var y = (item.wins / highest) * 100;
@@ -61,9 +62,9 @@ for (var y in data) {
     container.appendChild(dot);
   });
   var key = document.createElement("li");
-  key.innerHTML = `<i class="dot" style="background: ${palette[y]}"></i> ${y}`;
+  key.innerHTML = `<i class="dot" style="background: ${palette[year]}"></i> ${year}`;
   keyBlock.appendChild(key);
-}
+});
 
 var render = function() {
   var bounds = canvas.getBoundingClientRect();
@@ -84,7 +85,7 @@ var render = function() {
   //draw actual data
   for (var key in data) {
     var season = data[key];
-    context.lineWidth = key == 2016 ? 2 : 1;
+    context.lineWidth = key == 2016 ? featureLine : offLine;
     context.beginPath();
     context.moveTo(0, canvas.height);
     for (var i = 0; i < season.length; i++) {
@@ -108,7 +109,7 @@ var render = function() {
     context.setLineDash([1, 3]);
   } catch (err) { /* do nothing */ }
   context.strokeStyle = palette[2016];
-  context.lineWidth = 1;
+  context.lineWidth = offLine;
   context.stroke();
 };
 

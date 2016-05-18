@@ -17,6 +17,10 @@ main.interactive {
     padding-bottom: percentage(1 / 2);
     content: "";
     display: block;
+
+    @media @mobile {
+      padding-bottom: percentage(3 / 4);
+    }
   }
 
   canvas {
@@ -51,7 +55,12 @@ main.interactive {
       padding: 10px;
       box-shadow: 4px 4px 8px fade(black, 20%);
       position: absolute;
-      top: @dot-size;
+      top: @dot-size;   
+
+      h3 {
+        font-size: 14px;
+        margin: 0;
+      }
     }
 
     &.right .note {
