@@ -3,22 +3,36 @@
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
+var dot = require("./lib/dot");
+var tooltipTemplate = dot.compile(require("./_tooltip.html"));
 
 var data = window.seasons;
 var years = Object.keys(data).sort().reverse();
 
 var rgba = (r, g, b, a) => `rgba(${r}, ${g}, ${b}, ${a || 1})`;
 
+// @change: #f88a47;
+// @curve: black;
+// @cutter: #56617d;
+// @fastball: #269ba5;
+// @sinker: #f3d878;
+// @slider: #395b91;
+
+var hexToRGB = hex => [hex >> 16, hex >> 8 & 0xFF, hex & 0xFF];
+var hexToRGBA = (hex, a) => rgba.apply(null, hexToRGB(hex).concat([a]));
+
 var palette = {
-  1995: rgba(7, 119, 179, .5),
-  2001: rgba(192, 33, 138, .5),
-  2010: rgba(121, 143, 113, .5),
-  2015: rgba(123, 90, 166, .5),
-  2016: rgba(188, 92, 35)
+  1978: rgba(0, 0, 0, .7),
+  1995: hexToRGBA(0x56617d, .7),
+  2001: hexToRGBA(0x269ba5, .7),
+  2015: hexToRGBA(0x003166, .7),
+  2016: hexToRGBA(0xf88a47, 1)
 };
+console.log(palette);
 var padding = 2;
 
 var container = document.querySelector(".canvas-container");
+var tooltip = document.querySelector(".tooltip");
 var keyBlock = document.querySelector(".key");
 var canvas = document.querySelector(".canvas-container canvas");
 var context = canvas.getContext("2d");
@@ -67,6 +81,7 @@ var render = function() {
     context.lineTo(x, canvas.height);
     context.stroke();
   }
+  //draw actual data
   for (var key in data) {
     var season = data[key];
     context.lineWidth = key == 2016 ? 2 : 1;
@@ -81,9 +96,22 @@ var render = function() {
     context.strokeStyle = palette[key];
     context.stroke();
   }
+  //draw the trendline for the current season
+  var length2016 = data[2016].length
+  var last2016 = data[2016][length2016 - 1];
+  var slope = last2016.wins / length2016;
+  var startX = padding + ((length2016 - 1) / longest) * w;
+  context.beginPath();
+  context.moveTo(padding, h + padding);
+  context.lineTo(padding + w, h + padding - slope * longest / highest * h);
+  try {
+    context.setLineDash([1, 3]);
+  } catch (err) { /* do nothing */ }
+  context.strokeStyle = palette[2016];
+  context.lineWidth = 1;
+  context.stroke();
 };
 
-var tooltip = document.querySelector(".canvas-container .tooltip");
 var highlight = function(e) {
   render();
   var bounds = canvas.getBoundingClientRect();
@@ -91,15 +119,24 @@ var highlight = function(e) {
   var y = (e.touches ? e.touches[0].clientY : e.clientY) - bounds.top;
   var game = Math.floor(x / (canvas.width - padding * 2) * longest);
   context.beginPath();
+  try {
+    context.setLineDash([0]);
+  } catch (err) { /* do nothing */ }
   context.strokeStyle = rgba(0, 0, 0, .3);
   context.lineWidth = canvas.width / longest;
   var projectedX = padding + (game / longest) * (canvas.width - padding * 2)
   context.moveTo(projectedX, padding);
   context.lineTo(projectedX, canvas.height - padding);
   context.stroke();
-  var html = years.filter(y => data[y][game]).map(y => `<li> <b>${y}</b>: ${data[y][game].wins}-${data[y][game].losses}`).join("\n");
-  tooltip.innerHTML = `<h3>Game ${game + 1}</h3> <ul>` + html + "</ul>";
-  tooltip.classList.add("show");
+  var html = "";
+  var selected = {};
+  years.forEach(function(y) {
+    var season = data[y];
+    var g = season[game] || season[season.length - 1];
+    selected[y] = g;
+  });
+  tooltip.innerHTML = tooltipTemplate({ game: game + 1, selected })
+  tooltip.classList.remove("empty");
   tooltip.style.left = (x > canvas.width / 2 ? x - tooltip.offsetWidth : x) + "px";
   tooltip.style.top = y + 10 + "px";
 };
@@ -109,7 +146,3 @@ render();
 canvas.addEventListener("mousemove", highlight, 50);
 canvas.addEventListener("touchmove", highlight);
 window.addEventListener("resize", render);
-canvas.addEventListener("mouseleave", function() {
-  tooltip.classList.remove("show");
-  render();
-});

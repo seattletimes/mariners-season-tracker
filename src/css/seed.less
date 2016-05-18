@@ -28,39 +28,20 @@ main.interactive {
     height: 100%;
   }
 
-  .tooltip {
-    position: absolute;
-    background: white;
-    padding: 8px;
-    box-shadow: 8px 8px 8px fade(black, 20%);
-    display: none;
-    z-index: 999;
-
-    h3 {
-      font-size: 20px;
-      margin: 0 0 10px;
-    }
-
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    &.show {
-      display: block;
-    }
-  }
-
   .note-dot {
     @dot-size: 10px;
     position: absolute;
     width: @dot-size;
     height: @dot-size;
-    background: white;
+    background: fade(white, 50%);
     border-radius: 100%;
     border: 1px solid @df-middle-gray;
     margin: @dot-size * -.5;
+
+    &:hover {
+      background: white;
+      z-index: 999;
+    }
 
     .note {
       display: none;
@@ -83,6 +64,43 @@ main.interactive {
   }
 }
 
+
+.tooltip {
+  background: white;
+  z-index: 999;
+  font-size: 13px;
+
+  &.empty {
+    padding: 60px 20px;
+    text-align: center;
+  }
+
+  .row {
+    .display-flex;
+  }
+
+  .cell {
+    .flex(1);
+    padding: 8px 16px;
+  }
+
+  h3 {
+    font-size: 16px;
+    margin: 0 0 10px;
+    text-align: center;
+  }
+
+  h4 {
+    margin: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
 .key {
   margin: 0;
   padding: 20px;
@@ -101,4 +119,14 @@ main.interactive {
     vertical-align: middle;
     border-radius: 100%;
   }
+}
+
+.credit {
+  text-transform: uppercase;
+  float: right;
+  font-size: 12px;
+}
+
+.date {
+
 }

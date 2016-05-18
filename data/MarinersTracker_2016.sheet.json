@@ -3,236 +3,275 @@
     "game": 1,
     "won": "L",
     "date": "4/4/2016",
-    "score": "3 - 2"
+    "opponent": "at Rangers",
+    "score": "3-2"
   },
   {
     "game": 2,
     "won": "W",
     "date": "4/5/2016",
-    "score": "10 - 2"
+    "opponent": "at Rangers",
+    "score": "10-2"
   },
   {
     "game": 3,
     "won": "W",
     "date": "4/6/2016",
-    "score": "9 - 5"
+    "opponent": "at Rangers",
+    "score": "9-5"
   },
   {
     "game": 4,
     "won": "L",
     "date": "4/8/2016",
-    "score": "3 - 2"
+    "opponent": "vs. Athletics",
+    "score": "3-2"
   },
   {
     "game": 5,
     "won": "L",
     "date": "4/9/2016",
-    "score": "6 - 1"
+    "opponent": "vs. Athletics",
+    "score": "6-1"
   },
   {
     "game": 6,
     "won": "L",
     "date": "4/10/2016",
-    "score": "2 - 1"
+    "opponent": "vs. Athletics",
+    "score": "2-1 (10)"
   },
   {
     "game": 7,
     "won": "L",
     "date": "4/11/2016",
-    "score": "7 - 3"
+    "opponent": "vs. Rangers",
+    "score": "7-3"
   },
   {
     "game": 8,
     "won": "L",
     "date": "4/12/2016",
-    "score": "8 - 0"
+    "opponent": "vs. Rangers",
+    "score": "8-0"
   },
   {
     "game": 9,
     "won": "W",
     "date": "4/13/2016",
-    "notes": "*Dae-Ho Lee walkoff",
-    "score": "4 - 2",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/04/04132016-marinersCP02.jpg",
-    "link": "http://www.seattletimes.com/sports/mariners/dae-ho-lee-walkoff-hr-in-10th-ends-mariners-skid-at-5-games/",
-    "link text": "Dae-Ho Lee walkoff HR in 10th ends Mariners’ skid at 5 games"
+    "opponent": "vs. Rangers",
+    "score": "4-2 (10)",
+    "notes": "Dae-Ho Lee walkoff HR in 10th ends Mariners’ skid at 5 games",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/04/04132016-marinersCP02.jpg"
   },
   {
     "game": 10,
     "won": "W",
     "date": "4/15/2016",
-    "score": "7 - 1"
+    "opponent": "at Yankees",
+    "score": "7-1"
   },
   {
     "game": 11,
     "won": "W",
     "date": "4/16/2016",
-    "score": "3 - 2"
+    "opponent": "at Yankees",
+    "score": "3-2"
   },
   {
     "game": 12,
     "won": "L",
     "date": "4/17/2016",
-    "score": "4 - 3"
+    "opponent": "at Yankees",
+    "score": "4-3"
   },
   {
     "game": 13,
     "won": "L",
     "date": "4/19/2016",
-    "score": "3 - 2"
+    "opponent": "at Indians",
+    "score": "3-2"
   },
   {
     "game": 14,
     "won": "W",
     "date": "4/20/2016",
-    "score": "2 - 1"
+    "opponent": "at Indians",
+    "score": "2-1"
   },
   {
     "game": 15,
     "won": "W",
     "date": "4/21/2016",
-    "score": "10 - 7"
+    "opponent": "at Indians",
+    "score": "10-7 (10)"
   },
   {
     "game": 16,
     "won": "W",
     "date": "4/22/2016",
-    "score": "5 - 2"
+    "opponent": "at Angels",
+    "score": "5-2 (10)"
   },
   {
     "game": 17,
     "won": "L",
     "date": "4/23/2016",
-    "score": "4 - 2"
+    "opponent": "at Angels",
+    "score": "4-2"
   },
   {
     "game": 18,
     "won": "W",
     "date": "4/24/2016",
-    "score": "9 - 4"
+    "opponent": "at Angels",
+    "score": "9-4"
   },
   {
     "game": 19,
     "won": "W",
     "date": "4/25/2016",
-    "score": "3 - 2"
+    "opponent": "vs. Astros",
+    "score": "3-2"
   },
   {
     "game": 20,
     "won": "W",
     "date": "4/26/2016",
-    "score": "11 - 1"
+    "opponent": "vs. Astros",
+    "score": "11-1"
   },
   {
     "game": 21,
     "won": "L",
     "date": "4/27/2016",
-    "score": "7 - 4"
+    "opponent": "vs. Astros",
+    "score": "7-4"
   },
   {
     "game": 22,
     "won": "W",
     "date": "4/29/2016",
-    "score": "1 - 0"
+    "opponent": "vs. Royals",
+    "score": "1-0"
   },
   {
     "game": 23,
     "won": "W",
     "date": "4/30/2016",
-    "score": "6 - 0"
+    "opponent": "vs. Royals",
+    "score": "6-0"
   },
   {
     "game": 24,
     "won": "L",
     "date": "5/1/2016",
-    "score": "4 - 1"
+    "opponent": "vs. Royals",
+    "score": "4-1"
   },
   {
     "game": 25,
     "won": "W",
     "date": "5/2/2016",
-    "score": "4 - 3"
+    "opponent": "at Athletics",
+    "score": "4-3"
   },
   {
     "game": 26,
     "won": "W",
     "date": "5/3/2016",
-    "score": "8 - 2"
+    "opponent": "at Athletics",
+    "score": "8-2"
   },
   {
     "game": 27,
     "won": "W",
     "date": "5/4/2016",
-    "notes": "*M's rally back",
-    "score": "9 - 8 ",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Athletics_Baseball-8.jpg",
-    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-sends-shock-waves-through-oakland-with-435-foot-homer/",
-    "link text": "Felix Hernandez struggles, but Mariners rally for sweep A's"
+    "opponent": "at Athletics",
+    "score": "9-8",
+    "notes": "Felix Hernandez struggles, but Mariners rally for sweep A's",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Athletics_Baseball-8.jpg"
   },
   {
     "game": 28,
     "won": "W",
     "date": "5/5/2016",
-    "score": "6 - 3"
+    "opponent": "at Astros",
+    "score": "6-3"
   },
   {
     "game": 29,
     "won": "L",
     "date": "5/6/2016",
-    "score": "6 - 3"
+    "opponent": "at Astros",
+    "score": "6-3"
   },
   {
     "game": 30,
     "won": "W",
     "date": "5/7/2016",
-    "score": "3 - 2"
+    "opponent": "at Astros",
+    "score": "3-2 (10)"
   },
   {
     "game": 31,
     "won": "L",
     "date": "5/8/2016",
-    "score": "5 - 1"
+    "opponent": "at Astros",
+    "score": "5-1"
   },
   {
     "game": 32,
     "won": "W",
     "date": "5/9/2016",
-    "score": "5 - 2"
+    "opponent": "vs. Rays",
+    "score": "5-2"
   },
   {
     "game": 33,
     "won": "W",
     "date": "5/10/2016",
-    "score": "6 - 4"
+    "opponent": "vs. Rays",
+    "score": "6-4"
   },
   {
     "game": 34,
     "won": "W",
     "date": "5/11/2016",
-    "notes": "*Walkoff",
-    "score": "6 - 5",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/2190c03c-17d4-11e6-a536-f24bc4e96e77.jpg",
-    "link": "http://www.seattletimes.com/sports/mariners/chris-iannetta-homer-in-11th-inning-lifts-mariners-to-sweep-of-rays/",
-    "link text": "Chris Iannetta homers in 11th inning to complete sweep of Rays"
+    "opponent": "vs. Rays",
+    "score": "6-5 (11)",
+    "notes": "Chris Iannetta homers in 11th inning to complete sweep of Rays",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/2190c03c-17d4-11e6-a536-f24bc4e96e77.jpg"
   },
   {
     "game": 35,
     "won": "L",
     "date": "5/13/2016",
-    "score": "7 - 6"
+    "opponent": "vs. Angels",
+    "score": "7-6"
   },
   {
     "game": 36,
     "won": "L",
-    "date": "5/14/20160"
+    "date": "5/14/20160",
+    "opponent": "vs. Angels",
+    "score": "9-7"
   },
   {
     "game": 37,
     "won": "L",
-    "date": "5/15/2016"
+    "date": "5/15/2016",
+    "opponent": "vs. Angels",
+    "score": "3-0",
+    "notes": "Angels complete sweep of Mariners, who drop into second in AL West",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/05152016-mariners10-1020x988.jpg"
   },
   {
-    "game": 38
+    "game": 38,
+    "won": "W",
+    "date": "5/17/2016",
+    "opponent": "at Orioles",
+    "score": "10-0"
   },
   {
     "game": 39

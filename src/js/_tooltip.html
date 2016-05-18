@@ -1,0 +1,18 @@
+<h3>Game <%= data.game %></h3>
+<div class="row">
+  <div class="cell">
+    <h4>This season:</h4>
+    <% var twentySixteen = data.selected[2016]; var remaining = [1978, 1995, 2001, 2015]; %>
+    <b><%= twentySixteen.date %></b> <%= twentySixteen.opponent %><br>
+    Final score: <b><%= twentySixteen.score %></b><br>
+    Record: <b><%= twentySixteen.wins %>-<%= twentySixteen.losses %></b>
+  </div>
+  <div class="cell">
+    <h4>Other seasons:</h4>
+    <ul>
+      <% remaining.forEach(function(year) { var g = data.selected[year]; %>
+      <li> <%= year %>: <%= g.wins %>-<%= g.losses %>
+      <% }); %>
+    </ul>
+  </div>
+</div>
