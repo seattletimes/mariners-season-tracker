@@ -5,8 +5,8 @@
       "path": "glacial-nail"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/sports/mariners-wins-tracker"
     }
   },
   "title": "",
@@ -16,6 +16,6 @@
   "tags": [],
   "image": "assets/social.jpg",
   "sheets": ["1M1SfwFbafv0suHi8O9UHJWeuJG292sEeO6ybg-Xi_UU"],
-  "production": false,
+  "production": true,
   "embedded": true
 }
