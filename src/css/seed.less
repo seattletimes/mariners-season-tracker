@@ -55,11 +55,20 @@ main.interactive {
       padding: 10px;
       box-shadow: 4px 4px 8px fade(black, 20%);
       position: absolute;
-      top: @dot-size;   
+      bottom: @dot-size;   
 
       h3 {
         font-size: 14px;
         margin: 0;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+
+        &[src=""] {
+          display: none;
+        }
       }
     }
 
@@ -86,11 +95,12 @@ main.interactive {
 
   .row {
     .display-flex;
+    .justify-content(space-around);
   }
 
   .cell {
     .flex(1);
-    padding: 8px 16px;
+    padding: 8px 0;
   }
 
   h3 {
@@ -118,7 +128,7 @@ main.interactive {
 
   li {
     display: inline-block;
-    padding: 8px;
+    padding: 4px 8px;
   }
 
   i.dot {

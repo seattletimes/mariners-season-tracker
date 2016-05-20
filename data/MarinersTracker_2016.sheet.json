@@ -4,56 +4,73 @@
     "won": "L",
     "date": "4/4/2016",
     "opponent": "at Rangers",
-    "score": "3-2"
+    "score": "3-2",
+    "game story": "Errors, walks doom Mariners in opening-day loss to Rangers\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/errors-walks-doom-mariners-in-opening-day-loss-to-rangers/"
   },
   {
     "game": 2,
     "won": "W",
     "date": "4/5/2016",
     "opponent": "at Rangers",
-    "score": "10-2"
+    "score": "10-2",
+    "game story": "Mariners get their bats going in 10-2 rout of Texas Rangers\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-get-their-bats-going-in-10-2-rout-of-texas-rangers/"
   },
   {
     "game": 3,
     "won": "W",
     "date": "4/6/2016",
     "opponent": "at Rangers",
-    "score": "9-5"
+    "score": "9-5",
+    "game story": "Robinson Cano homers twice, and Mariners score 5 runs in ninth inning to beat Rangers\r",
+    "link": "http://www.seattletimes.com/sports/mariners/robinson-cano-homers-twice-and-mariners-score-5-runs-in-ninth-inning-to-beat-rangers/"
   },
   {
     "game": 4,
     "won": "L",
     "date": "4/8/2016",
     "opponent": "vs. Athletics",
-    "score": "3-2"
+    "score": "3-2",
+    "game story": "Closer Steve Cishek allows ninth-inning HR as Mariners lose home opener to A’s\r",
+    "link": "http://www.seattletimes.com/sports/mariners/closer-steve-cishek-allows-ninth-inning-hr-as-mariners-lose-home-opener-to-as/"
   },
   {
     "game": 5,
     "won": "L",
     "date": "4/9/2016",
     "opponent": "vs. Athletics",
-    "score": "6-1"
+    "score": "6-1",
+    "game story": "Mariners drop second straight to Oakland\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-drop-second-straight-to-oakland/"
   },
   {
     "game": 6,
     "won": "L",
     "date": "4/10/2016",
     "opponent": "vs. Athletics",
-    "score": "2-1 (10)"
+    "score": "2-1 (10)",
+    "game story": "Mariners get swept on opening homestand, falling to Oakland A’s in 10 innings\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-get-swept-on-opening-homestand-falling-to-oakland-as-in-10-innings/"
   },
   {
     "game": 7,
     "won": "L",
     "date": "4/11/2016",
     "opponent": "vs. Rangers",
-    "score": "7-3"
+    "score": "7-3",
+    "game story": "Mariners remain winless at home after 7-3 loss to Texas Rangers\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-remain-winless-at-home-after-7-3-loss-to-texas-rangers/"
   },
   {
     "game": 8,
     "won": "L",
     "date": "4/12/2016",
     "opponent": "vs. Rangers",
-    "score": "8-0"
+    "score": "8-0",
+    "notes": "Mariners have players-only meeting after fifth straight loss",
+    "game story": "Mariners can’t stop slump against Texas, lose fifth consecutive game\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-cant-stop-slump-against-texas-lose-fifth-consecutive-game/"
   },
   {
     "game": 9,
@@ -62,126 +79,162 @@
     "opponent": "vs. Rangers",
     "score": "4-2 (10)",
     "notes": "Dae-Ho Lee walkoff HR in 10th ends Mariners’ skid at 5 games",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/04/04132016-marinersCP02.jpg"
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/04/04132016-marinersCP02.jpg",
+    "game story": "Dae-Ho Lee walkoff HR in 10th ends Mariners’ skid at 5 games\r",
+    "link": "http://www.seattletimes.com/sports/mariners/dae-ho-lee-walkoff-hr-in-10th-ends-mariners-skid-at-5-games/"
   },
   {
     "game": 10,
     "won": "W",
     "date": "4/15/2016",
     "opponent": "at Yankees",
-    "score": "7-1"
+    "score": "7-1",
+    "game story": "Mariners offense comes alive in 7-1 win over Yankees\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-offense-comes-alive-in-7-1-win-over-yankees/"
   },
   {
     "game": 11,
     "won": "W",
     "date": "4/16/2016",
     "opponent": "at Yankees",
-    "score": "3-2"
+    "score": "3-2",
+    "game story": "Felix Hernandez gets first win of season and Mariners win third straight\r",
+    "link": "http://www.seattletimes.com/sports/mariners/felix-hernandez-gets-first-win-of-season-and-mariners-win-third-straight/"
   },
   {
     "game": 12,
     "won": "L",
     "date": "4/17/2016",
     "opponent": "at Yankees",
-    "score": "4-3"
+    "score": "4-3",
+    "game story": "Yankees’ Masahiro Tanaka gets better of Mariners’ Hisashi Iwakuma in matchup of former Japan teammates\r",
+    "link": "http://www.seattletimes.com/sports/mariners/masahiro-tanaka-gets-better-of-hisashi-iwakuma-in-matchup-of-former-teammates-on-japans-rakuten-golden-eagles/"
   },
   {
     "game": 13,
     "won": "L",
     "date": "4/19/2016",
     "opponent": "at Indians",
-    "score": "3-2"
+    "score": "3-2",
+    "game story": "Wade Miley’s command falters and Mariners lose 3-2 at Cleveland\r",
+    "link": "http://www.seattletimes.com/sports/mariners/wade-mileys-command-falters-and-mariners-lose-3-2-at-cleveland/"
   },
   {
     "game": 14,
     "won": "W",
     "date": "4/20/2016",
     "opponent": "at Indians",
-    "score": "2-1"
+    "score": "2-1",
+    "game story": "Taijuan Walker dominates Cleveland as Mariners end two-game skid\r",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-dominates-indians-as-mariners-end-two-game-skid/"
   },
   {
     "game": 15,
     "won": "W",
     "date": "4/21/2016",
     "opponent": "at Indians",
-    "score": "10-7 (10)"
+    "score": "10-7 (10)",
+    "game story": "Robinson Cano’s 10th-inning HR lifts Mariners past Indians\r",
+    "link": "http://www.seattletimes.com/sports/mariners/robinson-canos-10th-inning-hr-lifts-mariners-past-indians/"
   },
   {
     "game": 16,
     "won": "W",
     "date": "4/22/2016",
     "opponent": "at Angels",
-    "score": "5-2 (10)"
+    "score": "5-2 (10)",
+    "game story": "Mariners defeat Angels 5-2 in 10 innings\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-5-2-in-10-innings/"
   },
   {
     "game": 17,
     "won": "L",
     "date": "4/23/2016",
     "opponent": "at Angels",
-    "score": "4-2"
+    "score": "4-2",
+    "game story": "Felix Hernandez gets team strikeout record, but Mariners lose to Angels\r",
+    "link": "http://www.seattletimes.com/sports/mariners/felix-hernandez-gets-team-strikeout-record-but-mariners-lose-to-angels/"
   },
   {
     "game": 18,
     "won": "W",
     "date": "4/24/2016",
     "opponent": "at Angels",
-    "score": "9-4"
+    "score": "9-4",
+    "game story": "Mariners end trip with win over Angels and another series victory\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-end-trip-with-win-over-angels-and-another-series-victory/"
   },
   {
     "game": 19,
     "won": "W",
     "date": "4/25/2016",
     "opponent": "vs. Astros",
-    "score": "3-2"
+    "score": "3-2",
+    "game story": "Mariners beat Astros back at home, take lead in AL West\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-take-lead-in-al-west/"
   },
   {
     "game": 20,
     "won": "W",
     "date": "4/26/2016",
     "opponent": "vs. Astros",
-    "score": "11-1"
+    "score": "11-1",
+    "game story": "Mariners smash Houston behind Robinson Cano’s grand slam\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-smash-houston-behind-robinson-canos-grand-slam/"
   },
   {
     "game": 21,
     "won": "L",
     "date": "4/27/2016",
     "opponent": "vs. Astros",
-    "score": "7-4"
+    "score": "7-4",
+    "game story": "Mariners’ three-game win streak halted as Hisashi Iwakuma struggles\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-three-game-win-streak-halted-as-iwakuma-struggles/"
   },
   {
     "game": 22,
     "won": "W",
     "date": "4/29/2016",
     "opponent": "vs. Royals",
-    "score": "1-0"
+    "score": "1-0",
+    "game story": "Leonys Martin’s brilliant catch saves win for Mariners ace Felix Hernandez\r",
+    "link": "http://www.seattletimes.com/sports/mariners/leonys-martins-brilliant-catch-saves-win-for-mariners-ace-felix-hernandez/"
   },
   {
     "game": 23,
     "won": "W",
     "date": "4/30/2016",
     "opponent": "vs. Royals",
-    "score": "6-0"
+    "score": "6-0",
+    "game story": "Wade Miley pitches shutout as Mariners win fifth straight series\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/wade-miley-pitches-shutout-as-mariners-win-fifth-straight-series/"
   },
   {
     "game": 24,
     "won": "L",
     "date": "5/1/2016",
     "opponent": "vs. Royals",
-    "score": "4-1"
+    "score": "4-1",
+    "game story": "Mariners can’t complete sweep of Royals\r",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-cant-complete-sweep-of-royals/"
   },
   {
     "game": 25,
     "won": "W",
     "date": "5/2/2016",
     "opponent": "at Athletics",
-    "score": "4-3"
+    "score": "4-3",
+    "game story": "Mariners persevere in victory over Oakland\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-persevere-in-victory-over-oakland/"
   },
   {
     "game": 26,
     "won": "W",
     "date": "5/3/2016",
     "opponent": "at Athletics",
-    "score": "8-2"
+    "score": "8-2",
+    "game story": "‘We’re playing good ball’: Mariners smash Oakland, take back AL West lead\r\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners04/"
   },
   {
     "game": 27,
@@ -190,49 +243,63 @@
     "opponent": "at Athletics",
     "score": "9-8",
     "notes": "Felix Hernandez struggles, but Mariners rally for sweep A's",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Athletics_Baseball-8.jpg"
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Athletics_Baseball-8.jpg",
+    "game story": "Dae-Ho Lee’s two home runs power Mariners to series sweep of A’s\r",
+    "link": "http://www.seattletimes.com/sports/mariners/dae-ho-lees-two-home-runs-power-mariners-to-series-sweep-of-as/"
   },
   {
     "game": 28,
     "won": "W",
     "date": "5/5/2016",
     "opponent": "at Astros",
-    "score": "6-3"
+    "score": "6-3",
+    "game story": "Red-hot Mariners win fourth straight on Robinson Cano's big hit",
+    "link": "http://www.seattletimes.com/sports/mariners/red-hot-mariners-win-fourth-straight-on-robinson-canos-big-hit/"
   },
   {
     "game": 29,
     "won": "L",
     "date": "5/6/2016",
     "opponent": "at Astros",
-    "score": "6-3"
+    "score": "6-3",
+    "game story": "Astros snap M's four-game winning streak",
+    "link": "http://www.seattletimes.com/sports/mariners/astros-snap-mariners-four-game-winning-streak/"
   },
   {
     "game": 30,
     "won": "W",
     "date": "5/7/2016",
     "opponent": "at Astros",
-    "score": "3-2 (10)"
+    "score": "3-2 (10)",
+    "game story": "Robinson Cano continues hot streak for M's with 10th-inning homer ",
+    "link": "http://www.seattletimes.com/sports/mariners/robinson-cano-continues-hot-streak-for-mariners-with-homer-in-10th-to-beat-astros-3-2/"
   },
   {
     "game": 31,
     "won": "L",
     "date": "5/8/2016",
     "opponent": "at Astros",
-    "score": "5-1"
+    "score": "5-1",
+    "game story": "Hisashi Iwakuma falters early as M's lose to Astros in series finale",
+    "link": "http://www.seattletimes.com/sports/mariners/hisashi-iwakuma-falters-early-mariners-lose-to-astros-in-series-finale/"
   },
   {
     "game": 32,
     "won": "W",
     "date": "5/9/2016",
     "opponent": "vs. Rays",
-    "score": "5-2"
+    "score": "5-2",
+    "game story": "Felix Hernandez sets club record for wins as M's drop Rays",
+    "link": "http://www.seattletimes.com/sports/mariners/felix-hernandez-sets-mariners-record-with-146th-victory/"
   },
   {
     "game": 33,
     "won": "W",
     "date": "5/10/2016",
     "opponent": "vs. Rays",
-    "score": "6-4"
+    "score": "6-4",
+    "game story": "Mariners clinch series win over Tampa Bay with 6-4 win",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-clinch-series-win-over-tampa-bay/"
   },
   {
     "game": 34,
@@ -241,21 +308,27 @@
     "opponent": "vs. Rays",
     "score": "6-5 (11)",
     "notes": "Chris Iannetta homers in 11th inning to complete sweep of Rays",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/2190c03c-17d4-11e6-a536-f24bc4e96e77.jpg"
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/2190c03c-17d4-11e6-a536-f24bc4e96e77.jpg",
+    "game story": "Chris Iannetta lifts M's to sweep with walkoff homer",
+    "link": "http://www.seattletimes.com/sports/mariners/chris-iannetta-homer-in-11th-inning-lifts-mariners-to-sweep-of-rays/"
   },
   {
     "game": 35,
     "won": "L",
     "date": "5/13/2016",
     "opponent": "vs. Angels",
-    "score": "7-6"
+    "score": "7-6",
+    "game story": "Mariners lose late-game magic, fall 7-6 to Angels",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-their-late-game-magic-and-a-7-6-contest-to-the-angels-who-rally-in-the-ninth/"
   },
   {
     "game": 36,
     "won": "L",
     "date": "5/14/20160",
     "opponent": "vs. Angels",
-    "score": "9-7"
+    "score": "9-7",
+    "game story": "Mariners' improbable rally foiled by second straight blown save",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-improbable-rally-foiled-by-second-straight-blown-save/"
   },
   {
     "game": 37,
@@ -264,20 +337,36 @@
     "opponent": "vs. Angels",
     "score": "3-0",
     "notes": "Angels complete sweep of Mariners, who drop into second in AL West",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/05152016-mariners10-1020x988.jpg"
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/05152016-mariners10-1020x988.jpg",
+    "game story": "Angels complete sweep of M's, who drop into 2nd in AL West",
+    "link": "http://www.seattletimes.com/sports/mariners/angels-complete-sweep-of-mariners-who-drop-into-second-in-al-west/"
   },
   {
     "game": 38,
     "won": "W",
     "date": "5/17/2016",
     "opponent": "at Orioles",
-    "score": "10-0"
+    "score": "10-0",
+    "game story": "M's toss aside 3-game losing streak with 10-0 win over Orioles",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-toss-aside-three-game-losing-streak-win-10-0-at-baltimore/"
   },
   {
-    "game": 39
+    "game": 39,
+    "won": "L",
+    "date": "5/18/2016",
+    "opponent": "at Orioles",
+    "score": "5-2",
+    "game story": "Taijuan Walker wobbles, Chris Tillman shines and Mariners lose to Orioles\r",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-wobbles-and-mariners-lose-5-2/"
   },
   {
-    "game": 40
+    "game": 40,
+    "won": "W",
+    "date": "5/19/2016",
+    "opponent": "at Orioles",
+    "score": "7-2",
+    "game story": "Wallscraper' homers power M's to series win vs. Orioles",
+    "link": "http://www.seattletimes.com/sports/mariners/adam-lind-leonys-martin-homers-power-mariners-to-series-win-vs-orioles/"
   },
   {
     "game": 41

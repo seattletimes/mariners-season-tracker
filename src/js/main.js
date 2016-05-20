@@ -9,14 +9,21 @@ var tooltipTemplate = dot.compile(require("./_tooltip.html"));
 var data = window.seasons;
 var years = Object.keys(data).sort().reverse();
 
-var rgba = (r, g, b, a) => `rgba(${r}, ${g}, ${b}, ${a || 1})`;
+var length2016 = data[2016].length
+var last2016 = data[2016][length2016 - 1];
+var slope = last2016.wins / length2016;
+var projected = Math.floor(slope * 162);
+console.log(projected);
 
-// @change: #f88a47;
-// @curve: black;
-// @cutter: #56617d;
-// @fastball: #269ba5;
-// @sinker: #f3d878;
-// @slider: #395b91;
+var yearNotes = {
+  1978: "Worst season",
+  1995: "First playoffs",
+  2001: "Best season",
+  2015: "Last season",
+  2016: "Current season"
+};
+
+var rgba = (r, g, b, a) => `rgba(${r}, ${g}, ${b}, ${a || 1})`;
 
 var hexToRGB = hex => [hex >> 16, hex >> 8 & 0xFF, hex & 0xFF];
 var hexToRGBA = (hex, a) => rgba.apply(null, hexToRGB(hex).concat([a]));
@@ -53,7 +60,12 @@ years.forEach(function(year) {
     if (!item.notes) return;
     var dot = document.createElement("div");
     dot.className = "note-dot";
-    dot.innerHTML = `<div class="note"><h3>Game ${game}, ${year}:</h3>${item.notes} </div>`
+    dot.innerHTML = `
+      <div class="note">
+        <h3>Game ${game}, ${year}:</h3>
+        <img src="${item.photo || ""}">
+        ${item.notes}
+      </div>`
     var x = (game / longest) * 100;
     dot.style.left = x + "%";
     var y = (item.wins / highest) * 100;
@@ -62,7 +74,7 @@ years.forEach(function(year) {
     container.appendChild(dot);
   });
   var key = document.createElement("li");
-  key.innerHTML = `<i class="dot" style="background: ${palette[year]}"></i> ${year}`;
+  key.innerHTML = `<i class="dot" style="background: ${palette[year]}"></i> ${year} (${yearNotes[year]})`;
   keyBlock.appendChild(key);
 });
 
@@ -136,7 +148,7 @@ var highlight = function(e) {
     var g = season[game] || season[season.length - 1];
     selected[y] = g;
   });
-  tooltip.innerHTML = tooltipTemplate({ game: game + 1, selected })
+  tooltip.innerHTML = tooltipTemplate({ game: game + 1, selected, notes: yearNotes, projected })
   tooltip.classList.remove("empty");
   tooltip.style.left = (x > canvas.width / 2 ? x - tooltip.offsetWidth : x) + "px";
   tooltip.style.top = y + 10 + "px";

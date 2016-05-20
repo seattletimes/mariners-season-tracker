@@ -572,7 +572,9 @@
   {
     "game": 115,
     "won": "W",
-    "date": "8/12/2015"
+    "date": "8/12/2015",
+    "notes": "Hisashi Iwakuma throws the fifth no-hitter in Mariners history",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2015/08/08122015-Iwakuma47.jpg"
   },
   {
     "game": 116,
@@ -642,7 +644,9 @@
   {
     "game": 129,
     "won": "W",
-    "date": "8/28/2015"
+    "date": "8/28/2015",
+    "notes": "Mariners fire Jack Zduriencik, ending his seven-year tenure as GM",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2015/08/0b7237c2-4dd6-11e5-b347-3edc386e869a.jpg"
   },
   {
     "game": 130,
@@ -792,7 +796,9 @@
   {
     "game": 159,
     "won": "L",
-    "date": "9/30/2015"
+    "date": "9/30/2015",
+    "notes": "Nelson Cruz hits his career-best 44th home run of the season",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2015/06/df1ba00322fe471a920433fad0ce6db8.jpg"
   },
   {
     "game": 160,

@@ -292,7 +292,8 @@
   {
     "game": 59,
     "won": "W",
-    "date": "6/8/2001"
+    "date": "6/8/2001",
+    "notes": "Mariners win their 15th straight game, setting a team record for wins in a row."
   },
   {
     "game": 60,
@@ -432,7 +433,8 @@
   {
     "game": 87,
     "won": "W",
-    "date": "7/8/2001"
+    "date": "7/8/2001",
+    "notes": "Mariners enter the All-Star break with a league-best 63-24 record, and 8 players representing Seattle in the Midsummer Classic."
   },
   {
     "game": 88,
@@ -805,7 +807,8 @@
     "game": 161,
     "won": "W",
     "date": "10/6/2001",
-    "notes": "Mariners tie MLB record 116th win"
+    "notes": "Mariners tie MLB record with 116th win",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/tzrmariners2001.jpg"
   },
   {
     "game": 162,

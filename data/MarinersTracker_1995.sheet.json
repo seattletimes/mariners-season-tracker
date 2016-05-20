@@ -133,7 +133,8 @@
     "game": 27,
     "won": "W",
     "date": "5/26/1995",
-    "notes": "*Griffey breaks wrist (misses nearly 3 months)"
+    "notes": "Ken Griffey Jr. breaks wrist (misses nearly 3 months)",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/08192015-mariners02-1560x1248.jpg"
   },
   {
     "game": 28,
@@ -438,8 +439,7 @@
   {
     "game": 88,
     "won": "L",
-    "date": "8/1/1995",
-    "notes": "M's acquire pitcher Andy Benes at the trade deadline for top prospects Marc Newfield and Ron Villone."
+    "date": "8/1/1995"
   },
   {
     "game": 89,
@@ -505,7 +505,7 @@
     "game": 101,
     "won": "L",
     "date": "8/15/1995",
-    "notes": "Griffey returns / M's sit 12.5 games out of first place "
+    "notes": "Ken Griffey Jr. returns from injury as M's sit 12.5 games out of first place "
   },
   {
     "game": 102,
@@ -551,7 +551,8 @@
     "game": 110,
     "won": "W",
     "date": "8/24/1995",
-    "notes": "Griffey walkoff sparks run to playoffs"
+    "notes": "Griffey walkoff sparks run to playoffs",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/08192015-mariners04-1560x1030.jpg"
   },
   {
     "game": 111,
@@ -692,7 +693,7 @@
     "game": 138,
     "won": "W",
     "date": "9/24/1995",
-    "notes": "Thrilling 9-8 win over Oakland. \"Perhaps the most incredible game in (Mariners) history.\" Dave Niehaus"
+    "notes": "Thrilling 9-8 win over Oakland. \"Perhaps the most incredible game in (Mariners) history.\" - Dave Niehaus"
   },
   {
     "game": 139,
@@ -728,6 +729,8 @@
   {
     "game": 145,
     "won": "W",
-    "date": "10/2/1995"
+    "date": "10/2/1995",
+    "notes": "Everybody scores:' Mariners beat the Angels in a tie-breaker game to reach the playoffs for the first time in team history. ",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/e5be4e00-4874-11e5-8ec6-26323b411bb3-1560x1123.jpg"
   }
 ]
