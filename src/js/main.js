@@ -62,7 +62,7 @@ years.forEach(function(year) {
     dot.className = "note-dot";
     dot.innerHTML = `
       <div class="note">
-        <h3>Game ${game}, ${year}:</h3>
+        <h3>Game ${game + 1}, ${year}:</h3>
         <img src="${item.photo || ""}">
         ${item.notes}
       </div>`
