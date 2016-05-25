@@ -2,7 +2,7 @@
   {
     "game": 1,
     "won": "L",
-    "date": "4/4/2016",
+    "date": "4/4",
     "opponent": "at Rangers",
     "score": "3-2",
     "game story": "Errors, walks doom Mariners in opening-day loss to Rangers\r\n",
@@ -11,7 +11,7 @@
   {
     "game": 2,
     "won": "W",
-    "date": "4/5/2016",
+    "date": "4/5",
     "opponent": "at Rangers",
     "score": "10-2",
     "game story": "Mariners get their bats going in 10-2 rout of Texas Rangers\r",
@@ -20,7 +20,7 @@
   {
     "game": 3,
     "won": "W",
-    "date": "4/6/2016",
+    "date": "4/6",
     "opponent": "at Rangers",
     "score": "9-5",
     "game story": "Robinson Cano homers twice, and Mariners score 5 runs in ninth inning to beat Rangers\r",
@@ -29,7 +29,7 @@
   {
     "game": 4,
     "won": "L",
-    "date": "4/8/2016",
+    "date": "4/7",
     "opponent": "vs. Athletics",
     "score": "3-2",
     "game story": "Closer Steve Cishek allows ninth-inning HR as Mariners lose home opener to A’s\r",
@@ -38,7 +38,7 @@
   {
     "game": 5,
     "won": "L",
-    "date": "4/9/2016",
+    "date": "4/8",
     "opponent": "vs. Athletics",
     "score": "6-1",
     "game story": "Mariners drop second straight to Oakland\r\n",
@@ -47,7 +47,7 @@
   {
     "game": 6,
     "won": "L",
-    "date": "4/10/2016",
+    "date": "4/10",
     "opponent": "vs. Athletics",
     "score": "2-1 (10)",
     "game story": "Mariners get swept on opening homestand, falling to Oakland A’s in 10 innings\r\n",
@@ -56,7 +56,7 @@
   {
     "game": 7,
     "won": "L",
-    "date": "4/11/2016",
+    "date": "4/11",
     "opponent": "vs. Rangers",
     "score": "7-3",
     "game story": "Mariners remain winless at home after 7-3 loss to Texas Rangers\r\n",
@@ -65,7 +65,7 @@
   {
     "game": 8,
     "won": "L",
-    "date": "4/12/2016",
+    "date": "4/12",
     "opponent": "vs. Rangers",
     "score": "8-0",
     "notes": "Mariners have players-only meeting after fifth straight loss",
@@ -75,7 +75,7 @@
   {
     "game": 9,
     "won": "W",
-    "date": "4/13/2016",
+    "date": "4/13",
     "opponent": "vs. Rangers",
     "score": "4-2 (10)",
     "notes": "Dae-Ho Lee walkoff HR in 10th ends Mariners’ skid at 5 games",
@@ -86,7 +86,7 @@
   {
     "game": 10,
     "won": "W",
-    "date": "4/15/2016",
+    "date": "4/15",
     "opponent": "at Yankees",
     "score": "7-1",
     "game story": "Mariners offense comes alive in 7-1 win over Yankees\r\n",
@@ -95,7 +95,7 @@
   {
     "game": 11,
     "won": "W",
-    "date": "4/16/2016",
+    "date": "4/16",
     "opponent": "at Yankees",
     "score": "3-2",
     "game story": "Felix Hernandez gets first win of season and Mariners win third straight\r",
@@ -104,7 +104,7 @@
   {
     "game": 12,
     "won": "L",
-    "date": "4/17/2016",
+    "date": "4/17",
     "opponent": "at Yankees",
     "score": "4-3",
     "game story": "Yankees’ Masahiro Tanaka gets better of Mariners’ Hisashi Iwakuma in matchup of former Japan teammates\r",
@@ -113,7 +113,7 @@
   {
     "game": 13,
     "won": "L",
-    "date": "4/19/2016",
+    "date": "4/19",
     "opponent": "at Indians",
     "score": "3-2",
     "game story": "Wade Miley’s command falters and Mariners lose 3-2 at Cleveland\r",
@@ -122,7 +122,7 @@
   {
     "game": 14,
     "won": "W",
-    "date": "4/20/2016",
+    "date": "4/20",
     "opponent": "at Indians",
     "score": "2-1",
     "game story": "Taijuan Walker dominates Cleveland as Mariners end two-game skid\r",
@@ -131,7 +131,7 @@
   {
     "game": 15,
     "won": "W",
-    "date": "4/21/2016",
+    "date": "4/21",
     "opponent": "at Indians",
     "score": "10-7 (10)",
     "game story": "Robinson Cano’s 10th-inning HR lifts Mariners past Indians\r",
@@ -140,7 +140,7 @@
   {
     "game": 16,
     "won": "W",
-    "date": "4/22/2016",
+    "date": "4/22",
     "opponent": "at Angels",
     "score": "5-2 (10)",
     "game story": "Mariners defeat Angels 5-2 in 10 innings\r",
@@ -149,7 +149,7 @@
   {
     "game": 17,
     "won": "L",
-    "date": "4/23/2016",
+    "date": "4/23",
     "opponent": "at Angels",
     "score": "4-2",
     "game story": "Felix Hernandez gets team strikeout record, but Mariners lose to Angels\r",
@@ -158,7 +158,7 @@
   {
     "game": 18,
     "won": "W",
-    "date": "4/24/2016",
+    "date": "4/24",
     "opponent": "at Angels",
     "score": "9-4",
     "game story": "Mariners end trip with win over Angels and another series victory\r\n",
@@ -167,7 +167,7 @@
   {
     "game": 19,
     "won": "W",
-    "date": "4/25/2016",
+    "date": "4/25",
     "opponent": "vs. Astros",
     "score": "3-2",
     "game story": "Mariners beat Astros back at home, take lead in AL West\r",
@@ -176,7 +176,7 @@
   {
     "game": 20,
     "won": "W",
-    "date": "4/26/2016",
+    "date": "4/26",
     "opponent": "vs. Astros",
     "score": "11-1",
     "game story": "Mariners smash Houston behind Robinson Cano’s grand slam\r\n",
@@ -185,7 +185,7 @@
   {
     "game": 21,
     "won": "L",
-    "date": "4/27/2016",
+    "date": "4/27",
     "opponent": "vs. Astros",
     "score": "7-4",
     "game story": "Mariners’ three-game win streak halted as Hisashi Iwakuma struggles\r",
@@ -194,7 +194,7 @@
   {
     "game": 22,
     "won": "W",
-    "date": "4/29/2016",
+    "date": "4/29",
     "opponent": "vs. Royals",
     "score": "1-0",
     "game story": "Leonys Martin’s brilliant catch saves win for Mariners ace Felix Hernandez\r",
@@ -203,7 +203,7 @@
   {
     "game": 23,
     "won": "W",
-    "date": "4/30/2016",
+    "date": "4/30",
     "opponent": "vs. Royals",
     "score": "6-0",
     "game story": "Wade Miley pitches shutout as Mariners win fifth straight series\r\n",
@@ -212,7 +212,7 @@
   {
     "game": 24,
     "won": "L",
-    "date": "5/1/2016",
+    "date": "5/1",
     "opponent": "vs. Royals",
     "score": "4-1",
     "game story": "Mariners can’t complete sweep of Royals\r",
@@ -221,7 +221,7 @@
   {
     "game": 25,
     "won": "W",
-    "date": "5/2/2016",
+    "date": "5/2",
     "opponent": "at Athletics",
     "score": "4-3",
     "game story": "Mariners persevere in victory over Oakland\r\n",
@@ -230,7 +230,7 @@
   {
     "game": 26,
     "won": "W",
-    "date": "5/3/2016",
+    "date": "5/3",
     "opponent": "at Athletics",
     "score": "8-2",
     "game story": "‘We’re playing good ball’: Mariners smash Oakland, take back AL West lead\r\n",
@@ -239,7 +239,7 @@
   {
     "game": 27,
     "won": "W",
-    "date": "5/4/2016",
+    "date": "5/4",
     "opponent": "at Athletics",
     "score": "9-8",
     "notes": "Felix Hernandez struggles, but Mariners rally for sweep A's",
@@ -250,7 +250,7 @@
   {
     "game": 28,
     "won": "W",
-    "date": "5/5/2016",
+    "date": "5/5",
     "opponent": "at Astros",
     "score": "6-3",
     "game story": "Red-hot Mariners win fourth straight on Robinson Cano's big hit",
@@ -259,7 +259,7 @@
   {
     "game": 29,
     "won": "L",
-    "date": "5/6/2016",
+    "date": "5/6",
     "opponent": "at Astros",
     "score": "6-3",
     "game story": "Astros snap M's four-game winning streak",
@@ -268,7 +268,7 @@
   {
     "game": 30,
     "won": "W",
-    "date": "5/7/2016",
+    "date": "5/7",
     "opponent": "at Astros",
     "score": "3-2 (10)",
     "game story": "Robinson Cano continues hot streak for M's with 10th-inning homer ",
@@ -277,7 +277,7 @@
   {
     "game": 31,
     "won": "L",
-    "date": "5/8/2016",
+    "date": "5/8",
     "opponent": "at Astros",
     "score": "5-1",
     "game story": "Hisashi Iwakuma falters early as M's lose to Astros in series finale",
@@ -286,7 +286,7 @@
   {
     "game": 32,
     "won": "W",
-    "date": "5/9/2016",
+    "date": "5/9",
     "opponent": "vs. Rays",
     "score": "5-2",
     "game story": "Felix Hernandez sets club record for wins as M's drop Rays",
@@ -295,7 +295,7 @@
   {
     "game": 33,
     "won": "W",
-    "date": "5/10/2016",
+    "date": "5/10",
     "opponent": "vs. Rays",
     "score": "6-4",
     "game story": "Mariners clinch series win over Tampa Bay with 6-4 win",
@@ -304,7 +304,7 @@
   {
     "game": 34,
     "won": "W",
-    "date": "5/11/2016",
+    "date": "5/11",
     "opponent": "vs. Rays",
     "score": "6-5 (11)",
     "notes": "Chris Iannetta homers in 11th inning to complete sweep of Rays",
@@ -315,7 +315,7 @@
   {
     "game": 35,
     "won": "L",
-    "date": "5/13/2016",
+    "date": "5/13",
     "opponent": "vs. Angels",
     "score": "7-6",
     "game story": "Mariners lose late-game magic, fall 7-6 to Angels",
@@ -324,7 +324,7 @@
   {
     "game": 36,
     "won": "L",
-    "date": "5/14/20160",
+    "date": "5/14",
     "opponent": "vs. Angels",
     "score": "9-7",
     "game story": "Mariners' improbable rally foiled by second straight blown save",
@@ -333,7 +333,7 @@
   {
     "game": 37,
     "won": "L",
-    "date": "5/15/2016",
+    "date": "5/15",
     "opponent": "vs. Angels",
     "score": "3-0",
     "notes": "Angels complete sweep of Mariners, who drop into second in AL West",
@@ -344,7 +344,7 @@
   {
     "game": 38,
     "won": "W",
-    "date": "5/17/2016",
+    "date": "5/17",
     "opponent": "at Orioles",
     "score": "10-0",
     "notes": "M's bounce back with blowout in Baltimore",
@@ -355,7 +355,7 @@
   {
     "game": 39,
     "won": "L",
-    "date": "5/18/2016",
+    "date": "5/18",
     "opponent": "at Orioles",
     "score": "5-2",
     "game story": "Taijuan Walker wobbles, Chris Tillman shines and Mariners lose to Orioles\r",
@@ -364,20 +364,40 @@
   {
     "game": 40,
     "won": "W",
-    "date": "5/19/2016",
+    "date": "5/19",
     "opponent": "at Orioles",
     "score": "7-2",
     "game story": "Wallscraper' homers power M's to series win vs. Orioles",
     "link": "http://www.seattletimes.com/sports/mariners/adam-lind-leonys-martin-homers-power-mariners-to-series-win-vs-orioles/"
   },
   {
-    "game": 41
+    "game": 41,
+    "won": "W",
+    "date": "5/20",
+    "opponent": "at Reds",
+    "score": "8-3",
+    "game story": "Mariners feast on Reds’ woeful bullpen, win 8-3\n",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-feast-on-reds-woeful-bullpen-win-8-3/"
   },
   {
-    "game": 42
+    "game": 42,
+    "won": "W",
+    "date": "5/21",
+    "opponent": "at Reds",
+    "score": "4-0",
+    "game story": "Big Franklin Gutierrez homer lifts M's to 4-0 win",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-franklin-gutierrez-blasts-monster-473-foot-homer-against-reds/"
   },
   {
-    "game": 43
+    "game": 43,
+    "won": "W",
+    "date": "5/22",
+    "opponent": "at Reds",
+    "score": "5-4",
+    "notes": "Mariners complete sweep of Reds, extending MLB-best road record to 18-7",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/888a57de-1fa5-11e6-b044-29c5671c21cd-1560x1128.jpg",
+    "game story": "Mariners complete sweep of Reds with come-from-behind win",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-complete-sweep-of-reds-hold-on-for-5-4-victory/"
   },
   {
     "game": 44
