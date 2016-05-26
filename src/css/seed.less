@@ -41,7 +41,7 @@ main.interactive {
   }
 
   .note-dot {
-    @dot-size: 10px;
+    @dot-size: 16px;
     position: absolute;
     width: @dot-size;
     height: @dot-size;
@@ -50,7 +50,7 @@ main.interactive {
     border: 1px solid @df-middle-gray;
     margin: @dot-size * -.5;
 
-    &:hover {
+    &:hover, &:focus {
       background: white;
       z-index: 999;
     }
@@ -84,7 +84,7 @@ main.interactive {
       right: 0;
     }
 
-    &:hover .note {
+    &:hover .note, &:focus .note {
       display: block;
     }
   }
