@@ -418,10 +418,20 @@
     "link": "http://www.seattletimes.com/sports/mariners/walkoff-magic-leonys-martins-dramatic-homer-in-ninth-lifts-mariners/"
   },
   {
-    "game": 46
+    "game": 46,
+    "won": "W",
+    "date": "5/25",
+    "opponent": "vs. Athletics",
+    "score": "13-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-hit-four-homers-in-a-13-3-laugher-against-as/"
   },
   {
-    "game": 47
+    "game": 47,
+    "won": "L",
+    "date": "5/27",
+    "opponent": "vs. Twins",
+    "score": "7-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-felix-hernandez-have-tough-nights-in-7-2-loss-to-minnesota/"
   },
   {
     "game": 48
