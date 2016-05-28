@@ -13,7 +13,6 @@ var length2016 = data[2016].length
 var last2016 = data[2016][length2016 - 1];
 var slope = last2016.wins / length2016;
 var projected = Math.floor(slope * 162);
-console.log(projected);
 
 var yearNotes = {
   1978: "Worst season",
@@ -53,6 +52,10 @@ for (var key in data) {
 }
 longest -= 1;
 
+var focusNote = function() {
+  this.focus();
+};
+
 //once we have bounds, create the notes
 years.forEach(function(year) {
   var season = data[year];
@@ -71,6 +74,8 @@ years.forEach(function(year) {
     var y = (item.wins / highest) * 100;
     if (x >= 50) dot.classList.add("right");
     dot.style.top = 100 - y + "%";
+    dot.addEventListener("touchstart", focusNote);
+    dot.tabIndex = 1;
     container.appendChild(dot);
   });
   var key = document.createElement("li");
