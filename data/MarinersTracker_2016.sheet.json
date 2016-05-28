@@ -376,7 +376,7 @@
     "date": "5/20",
     "opponent": "at Reds",
     "score": "8-3",
-    "game story": "Mariners feast on Reds’ woeful bullpen, win 8-3\n",
+    "game story": "Mariners feast on Reds’ woeful bullpen, win 8-3",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-feast-on-reds-woeful-bullpen-win-8-3/"
   },
   {
@@ -395,15 +395,27 @@
     "opponent": "at Reds",
     "score": "5-4",
     "notes": "Mariners complete sweep of Reds, extending MLB-best road record to 18-7",
-    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/888a57de-1fa5-11e6-b044-29c5671c21cd-1560x1128.jpg",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Reds_Baseball-2.jpg",
     "game story": "Mariners complete sweep of Reds with come-from-behind win",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-complete-sweep-of-reds-hold-on-for-5-4-victory/"
   },
   {
-    "game": 44
+    "game": 44,
+    "won": "L",
+    "date": "5/23",
+    "opponent": "vs. Athletics",
+    "score": "5-0",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-gives-up-a-homer-then-things-get-worse-for-mariners-with-two-errors/"
   },
   {
-    "game": 45
+    "game": 45,
+    "won": "W",
+    "date": "5/24",
+    "opponent": "vs. Athletics",
+    "score": "6-5",
+    "notes": "Walkoff magic! Leonys Martin hits two-run homer with two outs in the 9th to give M's 6-5 win.",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/3bbfb790-223a-11e6-9731-7798c4a36bbb.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/walkoff-magic-leonys-martins-dramatic-homer-in-ninth-lifts-mariners/"
   },
   {
     "game": 46
