@@ -434,13 +434,28 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-felix-hernandez-have-tough-nights-in-7-2-loss-to-minnesota/"
   },
   {
-    "game": 48
+    "game": 48,
+    "won": "L",
+    "date": "5/28",
+    "opponent": "vs. Twins",
+    "score": "6-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-to-twins-6-5-in-puzzling-fashion/"
   },
   {
-    "game": 49
+    "game": 49,
+    "won": "L",
+    "date": "5/29",
+    "opponent": "vs. Twins",
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-struggles-as-mariners-get-swept-by-hapless-twins/"
   },
   {
-    "game": 50
+    "game": 50,
+    "won": "W",
+    "date": "5/30",
+    "opponent": "vs. Padres",
+    "score": "9-3",
+    "link": "http://www.seattletimes.com/sports/mariners/after-a-slow-start-mariners-find-their-offense-to-overpower-san-diego-9-3-to-end-slump/"
   },
   {
     "game": 51
