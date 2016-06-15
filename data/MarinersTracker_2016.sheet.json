@@ -564,7 +564,12 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-drop-finale-to-rangers-fall-five-games-back-of-texas-in-al-west/"
   },
   {
-    "game": 64
+    "game": 64,
+    "won": "L",
+    "date": "6/14",
+    "opponent": "at Rays",
+    "score": "8-7",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-leaves-with-sore-achilles-as-mariners-blow-lead-in-tampa-bay-loss/"
   },
   {
     "game": 65
