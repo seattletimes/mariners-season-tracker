@@ -572,10 +572,20 @@
     "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-leaves-with-sore-achilles-as-mariners-blow-lead-in-tampa-bay-loss/"
   },
   {
-    "game": 65
+    "game": 65,
+    "won": "L",
+    "date": "6/15",
+    "opponent": "at Rays",
+    "score": "3-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-walk-off-in-frustration-again/"
   },
   {
-    "game": 66
+    "game": 66,
+    "won": "W",
+    "date": "6/16",
+    "opponent": "at Rays",
+    "score": "6-4",
+    "link": "http://www.seattletimes.com/news/mariners-avoid-sweep-end-4-game-skid-with-win-over-rays/"
   },
   {
     "game": 67
