@@ -628,7 +628,12 @@
     "link": "http://www.seattletimes.com/sports/mariners/james-paxton-pitches-decently-but-mariners-lose-fourth-straight/"
   },
   {
-    "game": 72
+    "game": 72,
+    "won": "L",
+    "date": "6/22",
+    "opponent": "at Tigers",
+    "score": "5-1",
+    "link": "http://www.seattletimes.com/sports/mariners/losing-streak-continues-as-mariners-fall-to-500-mark/"
   },
   {
     "game": 73
