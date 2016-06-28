@@ -588,19 +588,44 @@
     "link": "http://www.seattletimes.com/news/mariners-avoid-sweep-end-4-game-skid-with-win-over-rays/"
   },
   {
-    "game": 67
+    "game": 67,
+    "won": "W",
+    "date": "6/17",
+    "opponent": "at Red Sox",
+    "score": "8-4",
+    "link": "http://www.seattletimes.com/sports/mariners/franklin-gutierrez-homers-twice-drives-in-six-runs-as-mariners-beat-red-sox/"
   },
   {
-    "game": 68
+    "game": 68,
+    "won": "L",
+    "date": "6/18",
+    "opponent": "at Red Sox",
+    "score": "6-2",
+    "link": "http://www.seattletimes.com/sports/mariners/adrian-sampson-makes-mlb-debut-but-mariners-cant-muster-much-support-in-loss-to-red-sox/"
   },
   {
-    "game": 69
+    "game": 69,
+    "won": "L",
+    "date": "6/19",
+    "opponent": "at Red Sox",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-bounces-back-but-mariners-again-quiet-on-offense-in-loss-to-red-sox/"
   },
   {
-    "game": 70
+    "game": 70,
+    "won": "L",
+    "date": "6/20",
+    "opponent": "at Tigers",
+    "score": "8-7",
+    "link": "http://www.seattletimes.com/sports/mariners/tigers-justin-upton-goes-deep-twice-on-mariners-the-last-one-wins-it-8-7-in-the-12th-inning/"
   },
   {
-    "game": 71
+    "game": 71,
+    "won": "L",
+    "date": "6/21",
+    "opponent": "at Tigers",
+    "score": "4-2",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-pitches-decently-but-mariners-lose-fourth-straight/"
   },
   {
     "game": 72
