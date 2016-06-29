@@ -636,10 +636,22 @@
     "link": "http://www.seattletimes.com/sports/mariners/losing-streak-continues-as-mariners-fall-to-500-mark/"
   },
   {
-    "game": 73
+    "game": 73,
+    "won": "L",
+    "date": "6/23",
+    "opponent": "at Tigers",
+    "score": "5-4",
+    "notes": "Mariners lose sixth straight game and fall below .500 for the first time since April 23",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/06/3143bab4-3987-11e6-ad07-4a9975e57a4f.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/steve-cisheks-wild-pitch-in-10th-inning-sends-mariners-to-6th-loss-in-row/?utm_content=buffer7815e&utm_medium=social&utm_source=twitter&utm_campaign=owned_buffer"
   },
   {
-    "game": 74
+    "game": 74,
+    "won": "W",
+    "date": "6/24",
+    "opponent": "vs. Cardinals",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/adam-linds-walkoff-wonder-snaps-mariners-six-game-skid/"
   },
   {
     "game": 75
