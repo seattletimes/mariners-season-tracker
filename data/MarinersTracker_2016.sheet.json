@@ -654,13 +654,28 @@
     "link": "http://www.seattletimes.com/sports/mariners/adam-linds-walkoff-wonder-snaps-mariners-six-game-skid/"
   },
   {
-    "game": 75
+    "game": 75,
+    "won": "W",
+    "date": "6/25",
+    "opponent": "vs. Carindals",
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-2nd-straight-over-cardinals/"
   },
   {
-    "game": 76
+    "game": 76,
+    "won": "L",
+    "date": "6/26",
+    "opponent": "vs. Carindals",
+    "score": "11-6",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-give-up-six-homers-in-final-four-innings-to-fall-to-cardinals/"
   },
   {
-    "game": 77
+    "game": 77,
+    "won": "W",
+    "date": "6/28",
+    "opponent": "vs. Pirates",
+    "score": "5-2",
+    "link": "http://www.seattletimes.com/sports/mariners/after-win-over-pirates-are-mariners-getting-back-on-winning-track/"
   },
   {
     "game": 78
