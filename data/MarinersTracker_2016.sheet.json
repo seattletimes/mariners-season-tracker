@@ -678,13 +678,28 @@
     "link": "http://www.seattletimes.com/sports/mariners/after-win-over-pirates-are-mariners-getting-back-on-winning-track/"
   },
   {
-    "game": 78
+    "game": 78,
+    "won": "L",
+    "date": "6/29",
+    "opponent": "vs. Pirates",
+    "score": "8-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-a-catcher-and-a-bid-for-series-sweep/"
   },
   {
-    "game": 79
+    "game": 79,
+    "won": "W",
+    "date": "6/30",
+    "opponent": "vs. Orioles",
+    "score": "5-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-finally-get-best-of-their-nemesis-chris-tillman-in-scoring-a-5-3-victory-over-os/"
   },
   {
-    "game": 80
+    "game": 80,
+    "won": "W",
+    "date": "7/1",
+    "opponent": "vs. Orioles",
+    "score": "5-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-use-home-run-power-and-wade-leblancs-pitching-to-topple-orioles-5-2/"
   },
   {
     "game": 81
