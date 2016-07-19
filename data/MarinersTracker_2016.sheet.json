@@ -5,7 +5,7 @@
     "date": "4/4",
     "opponent": "at Rangers",
     "score": "3-2",
-    "game story": "Errors, walks doom Mariners in opening-day loss to Rangers\r\n",
+    "game story": "Errors, walks doom Mariners in opening-day loss to Rangers\n",
     "link": "http://www.seattletimes.com/sports/mariners/errors-walks-doom-mariners-in-opening-day-loss-to-rangers/"
   },
   {
@@ -14,7 +14,7 @@
     "date": "4/5",
     "opponent": "at Rangers",
     "score": "10-2",
-    "game story": "Mariners get their bats going in 10-2 rout of Texas Rangers\r",
+    "game story": "Mariners get their bats going in 10-2 rout of Texas Rangers\n",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-get-their-bats-going-in-10-2-rout-of-texas-rangers/"
   },
   {
@@ -23,7 +23,7 @@
     "date": "4/6",
     "opponent": "at Rangers",
     "score": "9-5",
-    "game story": "Robinson Cano homers twice, and Mariners score 5 runs in ninth inning to beat Rangers\r",
+    "game story": "Robinson Cano homers twice, and Mariners score 5 runs in ninth inning to beat Rangers\n",
     "link": "http://www.seattletimes.com/sports/mariners/robinson-cano-homers-twice-and-mariners-score-5-runs-in-ninth-inning-to-beat-rangers/"
   },
   {
@@ -242,7 +242,7 @@
     "date": "5/4",
     "opponent": "at Athletics",
     "score": "9-8",
-    "notes": "Felix Hernandez struggles, but Mariners rally for sweep A's",
+    "notes": "Felix Hernandez struggles, but Mariners rally to sweep A's",
     "photo": "http://static.seattletimes.com/wp-content/uploads/2016/05/Mariners_Athletics_Baseball-8.jpg",
     "game story": "Dae-Ho Lee’s two home runs power Mariners to series sweep of A’s\r",
     "link": "http://www.seattletimes.com/sports/mariners/dae-ho-lees-two-home-runs-power-mariners-to-series-sweep-of-as/"
@@ -702,43 +702,111 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-use-home-run-power-and-wade-leblancs-pitching-to-topple-orioles-5-2/"
   },
   {
-    "game": 81
+    "game": 81,
+    "won": "W",
+    "date": "7/2",
+    "opponent": "vs. Orioles",
+    "score": "12-6",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-show-off-power-with-five-homers-16-hits-in-beating-orioles-12-6/"
   },
   {
-    "game": 82
+    "game": 82,
+    "won": "W",
+    "date": "7/3",
+    "opponent": "vs. Orioles",
+    "score": "9-4",
+    "notes": "Mariners sweep first-place Orioles, capping off 7-2 homestand",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/07/e512f66e-416f-11e6-8548-444e386f8d63.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/sweet-sweep-mariners-win-fourth-straight-over-baltimore-orioles/"
   },
   {
-    "game": 83
+    "game": 83,
+    "won": "L",
+    "date": "7/4",
+    "opponent": "at Astros",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-fall-2-1-to-astros-after-blowing-a-big-chance/"
   },
   {
-    "game": 84
+    "game": 84,
+    "won": "L",
+    "date": "7/5",
+    "opponent": "at Astros",
+    "score": "5-2",
+    "link": "http://www.seattletimes.com/sports/mariners/shaky-footing-as-mariners-fall-to-houston-again/"
   },
   {
-    "game": 85
+    "game": 85,
+    "won": "L",
+    "date": "7/6",
+    "opponent": "at Astros",
+    "score": "9-8",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-rally-from-5-0-deficit-but-still-lose-third-straight-game/"
   },
   {
-    "game": 86
+    "game": 86,
+    "won": "L",
+    "date": "7/7",
+    "opponent": "at Royals ",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/blown-save-blown-lead-net-mariners-a-fourth-straight-loss/"
   },
   {
-    "game": 87
+    "game": 87,
+    "won": "W",
+    "date": "7/8",
+    "opponent": "at Royals ",
+    "score": "3-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-beat-royals-snap-10-game-road-losing-streak/"
   },
   {
-    "game": 88
+    "game": 88,
+    "won": "L",
+    "date": "7/9",
+    "opponent": "at Royals ",
+    "score": "5-3",
+    "link": "http://www.seattletimes.com/sports/mariners/kyle-seager-has-good-bad-game-as-mariners-lose-again-on-road/"
   },
   {
-    "game": 89
+    "game": 89,
+    "won": "W",
+    "date": "7/10",
+    "opponent": "at Royals ",
+    "score": "8-5",
+    "notes": "Mariners enter All-Star break one game over .500",
+    "link": "http://www.seattletimes.com/sports/mariners/mike-montgomery-dazzles-as-mariners-hold-on-for-8-5-win-over-royals/?utm_content=buffer23514&utm_medium=social&utm_source=twitter.com&utm_campaign=owned_buffer_sports"
   },
   {
-    "game": 90
+    "game": 90,
+    "won": "L",
+    "date": "7/15",
+    "opponent": "vs Astros",
+    "score": "7-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-fall-flat-against-astros-as-second-half-of-season-begins/"
   },
   {
-    "game": 91
+    "game": 91,
+    "won": "W",
+    "date": "7/16",
+    "opponent": "vs. Astros",
+    "score": "1-0",
+    "link": "http://www.seattletimes.com/sports/mariners/hisashi-iwakuma-is-awesome-as-mariners-win-1-0/"
   },
   {
-    "game": 92
+    "game": 92,
+    "won": "L",
+    "date": "7/17",
+    "opponent": "vs. Astros",
+    "score": "8-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-to-astros-in-an-all-around-sloppy-performance/"
   },
   {
-    "game": 93
+    "game": 93,
+    "won": "W",
+    "date": "7/18",
+    "opponent": "vs. White Sox",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/adam-linds-three-run-homer-caps-improbable-win-for-mariners/"
   },
   {
     "game": 94
