@@ -806,25 +806,59 @@
     "date": "7/18",
     "opponent": "vs. White Sox",
     "score": "4-3",
+    "notes": "Adam Lind hits a three-run walkoff homer to cap 4-run 9th-inning comeback",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/07/07182016-mariners21.jpg",
     "link": "http://www.seattletimes.com/sports/mariners/adam-linds-three-run-homer-caps-improbable-win-for-mariners/"
   },
   {
-    "game": 94
+    "game": 94,
+    "won": "L",
+    "date": "7/19",
+    "opponent": "vs. White Sox",
+    "score": "6-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-cannot-muster-ninth-inning-magic-this-time-vs-white-sox/"
   },
   {
-    "game": 95
+    "game": 95,
+    "won": "W",
+    "date": "7/20",
+    "opponent": "vs. White Sox",
+    "score": "6-5",
+    "notes": "Leonys Martin hits walkoff homer in the 11th inning, giving M's the most walkoff wins in baseball",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/07/07202016-156880_mari173631.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/leonys-martins-walkoff-homer-in-11th-lifts-mariners-over-white-sox/"
   },
   {
-    "game": 96
+    "game": 96,
+    "won": "W",
+    "date": "7/22",
+    "opponent": "at Blue Jays",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-james-paxton-pitches-seven-strong-innings-in-2-1-win-over-blue-jays/"
   },
   {
-    "game": 97
+    "game": 97,
+    "won": "W",
+    "date": "7/23",
+    "opponent": "at Blue Jays",
+    "score": "14-5",
+    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-has-2-homer-7-rbi-day-as-mariners-clobber-blue-jays/"
   },
   {
-    "game": 98
+    "game": 98,
+    "won": "L",
+    "date": "7/24",
+    "opponent": "at Blue Jays",
+    "score": "2-0",
+    "link": "http://www.seattletimes.com/sports/mariners/wade-miley-pitches-well-but-mariners-cant-complete-sweep-of-blue-jays/"
   },
   {
-    "game": 99
+    "game": 99,
+    "won": "W",
+    "date": "7/26",
+    "opponent": "at Pirates",
+    "score": "7-4",
+    "link": "http://www.seattletimes.com/sports/mariners/despite-rough-start-felix-hernandez-mariners-get-7-4-victory-at-pittsburgh/"
   },
   {
     "game": 100
