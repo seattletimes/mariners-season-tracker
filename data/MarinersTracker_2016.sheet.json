@@ -861,43 +861,108 @@
     "link": "http://www.seattletimes.com/sports/mariners/despite-rough-start-felix-hernandez-mariners-get-7-4-victory-at-pittsburgh/"
   },
   {
-    "game": 100
+    "game": 100,
+    "won": "L",
+    "date": "7/27",
+    "opponent": "at Pirates",
+    "score": "10-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-bullpen-crushed-in-10-1-loss-at-pittsburgh/"
   },
   {
-    "game": 101
+    "game": 101,
+    "won": "L",
+    "date": "7/29",
+    "opponent": "at Cubs",
+    "score": "12-1",
+    "link": "http://www.seattletimes.com/sports/mariners/short-day-for-hisashi-iwakuma-long-day-for-mariners-in-loss-to-cubs/"
   },
   {
-    "game": 102
+    "game": 102,
+    "won": "W",
+    "date": "7/30",
+    "opponent": "at Cubs",
+    "score": "4-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-pick-up-one-of-their-best-wins-of-season/"
   },
   {
-    "game": 103
+    "game": 103,
+    "won": "L",
+    "date": "7/31",
+    "opponent": "at Cubs",
+    "score": "7-6",
+    "link": "http://www.seattletimes.com/sports/mariners/seattle-blows-big-lead-as-jon-lesters-squeeze-bunt-in-12th-lifts-cubs/"
   },
   {
-    "game": 104
+    "game": 104,
+    "won": "L",
+    "date": "8/1",
+    "opponent": "vs. Red Sox ",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/steve-cishek-gives-up-home-rin-9th-as-mariners-suffer-another-tough-loss/"
   },
   {
-    "game": 105
+    "game": 105,
+    "won": "W",
+    "date": "8/2",
+    "opponent": "vs. Red Sox ",
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-stun-boston-with-five-runs-in-8th-for-5-4-victory/"
   },
   {
-    "game": 106
+    "game": 106,
+    "won": "W",
+    "date": "8/3",
+    "opponent": "vs. Red Sox ",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-use-three-home-runs-to-back-iwakuma-in-3-1-win/"
   },
   {
-    "game": 107
+    "game": 107,
+    "won": "L",
+    "date": "8/4",
+    "opponent": "vs. Red Sox ",
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-vs-red-sox-live-coverage-as-seattle-tries-to-move-above-500/"
   },
   {
-    "game": 108
+    "game": 108,
+    "won": "W",
+    "date": "8/5 ",
+    "opponent": "vs. Angels",
+    "score": "6-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mike-zunino-and-mariners-batter-tim-lincecum-in-win-over-angels/"
   },
   {
-    "game": 109
+    "game": 109,
+    "won": "W",
+    "date": "8/6",
+    "opponent": "vs. Angels",
+    "score": "8-6",
+    "link": "http://www.seattletimes.com/sports/mariners/shawn-omalleys-three-run-homer-pushes-mariners-to-8-6-comeback-victory-over-angels/"
   },
   {
-    "game": 110
+    "game": 110,
+    "won": "W",
+    "date": "8/7",
+    "opponent": "vs. Angels",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-shines-before-leaving-with-arm-injury-as-mariners-sweep-angels/"
   },
   {
-    "game": 111
+    "game": 111,
+    "won": "W",
+    "date": "8/8",
+    "opponent": "vs. Tigers",
+    "score": "3-0",
+    "link": "http://www.seattletimes.com/sports/mariners/hisashi-iwakuma-shuts-down-tigers-as-mariners-win-fourth-straight/"
   },
   {
-    "game": 112
+    "game": 112,
+    "won": "W",
+    "date": "8/9",
+    "opponent": "vs. Tigers",
+    "score": "6-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-stun-tigers-in-15-innings-to-run-winning-streak-to-5/"
   },
   {
     "game": 113
