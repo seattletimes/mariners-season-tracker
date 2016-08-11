@@ -962,10 +962,17 @@
     "date": "8/9",
     "opponent": "vs. Tigers",
     "score": "6-5",
+    "notes": "Mariners come from behind twice to beat the Tigers in 15 innings",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2016/03/20160810mariners01_crop.jpg",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-stun-tigers-in-15-innings-to-run-winning-streak-to-5/"
   },
   {
-    "game": 113
+    "game": 113,
+    "won": "W",
+    "date": "8/10",
+    "opponent": "vs. Tigers",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-sweep-tigers-boost-winning-streak-to-six/"
   },
   {
     "game": 114
