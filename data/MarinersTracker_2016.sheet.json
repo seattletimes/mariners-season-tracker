@@ -1175,22 +1175,51 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-suffer-another-long-night-lose-to-rangers/"
   },
   {
-    " ": 139
+    " ": 139,
+    "won": "W",
+    "date": "9/7",
+    "opponent": "vs. Rangers",
+    "score": "8-3",
+    "link": "http://www.seattletimes.com/sports/mariners/adam-lind-mariners-slam-rangers-8-3/"
   },
   {
-    " ": 140
+    " ": 140,
+    "won": "W",
+    "date": "9/8",
+    "opponent": "vs. Rangers",
+    "score": "6-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-taijuan-walker-wobbles-but-still-gets-a-much-needed-victory/"
   },
   {
-    " ": 141
+    " ": 141,
+    "won": "W",
+    "date": "9/9",
+    "opponent": "at Athletics",
+    "score": "3-2"
   },
   {
-    " ": 142
+    " ": 142,
+    "won": "W",
+    "date": "9/10",
+    "opponent": "at Athletics",
+    "score": "14-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-get-big-hits-from-nelson-cruz-felix-hernandez-cruises-in-win-over-as/"
   },
   {
-    " ": 143
+    " ": 143,
+    "won": "W",
+    "date": "9/11",
+    "opponent": "at Athletics",
+    "score": "3-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-at-as-live-coverage-as-seattle-goes-for-a-series-sweep-in-oakland/"
   },
   {
-    " ": 144
+    " ": 144,
+    "won": "W",
+    "date": "9/12",
+    "opponent": "at Angels",
+    "score": "8-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-sixth-consecutive-game/"
   },
   {
     " ": 145
