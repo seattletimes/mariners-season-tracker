@@ -1222,19 +1222,44 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-win-sixth-consecutive-game/"
   },
   {
-    " ": 145
+    " ": 145,
+    "won": "W",
+    "date": "9/13",
+    "opponent": "at Angels",
+    "score": "8-0",
+    "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-throws-three-hit-shutout-in-brilliant-performance/"
   },
   {
-    " ": 146
+    " ": 146,
+    "won": "W",
+    "date": "9/14",
+    "opponent": "at Angels",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-eighth-in-a-row-besting-angels-2-1-in-another-fine-pitching-performance/"
   },
   {
-    " ": 147
+    " ": 147,
+    "won": "L",
+    "date": "9/16",
+    "opponent": "vs. Astros",
+    "score": "6-0",
+    "link": "http://www.seattletimes.com/sports/mariners/felix-hernandez-is-shelled-and-mariner-bats-go-cold-in-6-0-loss-to-houston/"
   },
   {
-    " ": 148
+    " ": 148,
+    "won": "L",
+    "date": "9/17",
+    "opponent": "vs. Astros",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-pitches-well-but-mariners-show-little-life-on-offense-in-loss/"
   },
   {
-    " ": 149
+    " ": 149,
+    "won": "W",
+    "date": "9/18",
+    "opponent": "vs. Astros",
+    "score": "7-3",
+    "link": "http://www.seattletimes.com/sports/mariners/ariel-miranda-sharp-as-mariners-salvage-game-against-astros/"
   },
   {
     " ": 150
