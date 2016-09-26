@@ -1278,16 +1278,36 @@
     "link": "http://www.seattletimes.com/sports/mariners/crushing-10-2-loss-has-mariners-failing-to-move-in-playoff-contention/"
   },
   {
-    " ": 152
+    " ": 152,
+    "won": "W",
+    "date": "9/21",
+    "opponent": "vs. Blue Jays",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/robinson-canos-sacrifice-fly-helps-mariners-salvage-12-inning-victory/"
   },
   {
-    " ": 153
+    " ": 153,
+    "won": "W",
+    "date": "9/23",
+    "opponent": "at Twins",
+    "score": "10-1",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-shines-in-mariners-rout-of-twins/"
   },
   {
-    " ": 154
+    " ": 154,
+    "won": "L",
+    "date": "9/24",
+    "opponent": "at Twins",
+    "score": "3-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-critical-game-to-lowly-twins/"
   },
   {
-    " ": 155
+    " ": 155,
+    "won": "W",
+    "date": "9/25",
+    "opponent": "at Twins",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-homers-twice-mariners-hang-on-to-beat-twins/"
   },
   {
     " ": 156
