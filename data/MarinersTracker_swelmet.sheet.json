@@ -1,0 +1,14 @@
+[
+  {
+    "name": "a",
+    "times_received": 1
+  },
+  {
+    "name": "b",
+    "times_received": 2
+  },
+  {
+    "name": "c",
+    "times_received": 10
+  }
+]
