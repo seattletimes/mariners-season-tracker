@@ -9,17 +9,18 @@ var tooltipTemplate = dot.compile(require("./_tooltip.html"));
 var data = window.seasons;
 var years = Object.keys(data).sort().reverse();
 
-var length2016 = data[2016].length
-var last2016 = data[2016][length2016 - 1];
-var slope = last2016.wins / length2016;
+var length2017 = data[2017].length
+var last2017 = data[2017][length2017 - 1];
+var slope = last2017.wins / length2017;
 var projected = Math.floor(slope * 162);
 
 var yearNotes = {
   1978: "Worst season",
   1995: "First playoffs",
   2001: "Best season",
-  2015: "Last season",
-  2016: "Current season"
+  2015: "_____ season",
+  2016: "Last season",
+  2017: "Current  season"
 };
 
 var rgba = (r, g, b, a) => `rgba(${r}, ${g}, ${b}, ${a || 1})`;
@@ -32,7 +33,8 @@ var palette = {
   1995: hexToRGBA(0x56617d, .7),
   2001: hexToRGBA(0x269ba5, .7),
   2015: hexToRGBA(0x003166, .7),
-  2016: hexToRGBA(0xf88a47, 1)
+  2016: hexToRGBA(0xf88a47, 1),
+  2017: hexToRGBA(0x19908d, .7) // needs another color
 };
 var padding = 2;
 var offLine = 2;
@@ -102,7 +104,7 @@ var render = function() {
   //draw actual data
   for (var key in data) {
     var season = data[key];
-    context.lineWidth = key == 2016 ? featureLine : offLine;
+    context.lineWidth = key == 2017 ? featureLine : offLine;
     context.beginPath();
     context.moveTo(0, canvas.height);
     for (var i = 0; i < season.length; i++) {
@@ -115,17 +117,17 @@ var render = function() {
     context.stroke();
   }
   //draw the trendline for the current season
-  var length2016 = data[2016].length
-  var last2016 = data[2016][length2016 - 1];
-  var slope = last2016.wins / length2016;
-  var startX = padding + ((length2016 - 1) / longest) * w;
+  var length2017 = data[2017].length
+  var last2017 = data[2017][length2017 - 1];
+  var slope = last2017.wins / length2017;
+  var startX = padding + ((length2017 - 1) / longest) * w;
   context.beginPath();
   context.moveTo(padding, h + padding);
   context.lineTo(padding + w, h + padding - slope * longest / highest * h);
   try {
     context.setLineDash([1, 3]);
   } catch (err) { /* do nothing */ }
-  context.strokeStyle = palette[2016];
+  context.strokeStyle = palette[2017];
   context.lineWidth = offLine;
   context.stroke();
 };

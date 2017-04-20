@@ -4,7 +4,7 @@
     </p>
 
 <% json.MarinersTracker_swelmet.sort((a, b) => b.times_received - a.times_received).forEach(function(s) { %>
-    <div>
+    <div class="player">
      <span class="name"><%= s.name %></span>
      <% for (var i=0; i < s.times_received; i++) { %>
       <img src="../assets/swelmet.png" width="20px">

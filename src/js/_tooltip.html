@@ -1,14 +1,14 @@
 <h3>Game <%= data.game %></h3>
 <div class="row">
   <div class="cell">
-    <h4>2016 season:</h4>
-    <% var twentySixteen = data.selected[2016]; var remaining = [2015, 2001, 1995, 1978]; %>
-    <b><%= twentySixteen.date %></b> <%= twentySixteen.opponent %><br>
-    Final score: <b><%= twentySixteen.won %>, <%= twentySixteen.score %></b><br>
-    Record: <b><%= twentySixteen.wins %>-<%= twentySixteen.losses %></b><br>
+    <h4>2017 season:</h4>
+    <% var twentySeventeen = data.selected[2017]; var remaining = [2016, 2015, 2001, 1995, 1978]; %>
+    <b><%= twentySeventeen.date %></b> <%= twentySeventeen.opponent %><br>
+    Final score: <b><%= twentySeventeen.won %>, <%= twentySeventeen.score %></b><br>
+    Record: <b><%= twentySeventeen.wins %>-<%= twentySeventeen.losses %></b><br>
     Projected record: <b><%= data.projected %>-<%= 162 - data.projected %><br>
-    <% if (twentySixteen.link) { %>
-    <a href="<%= twentySixteen.link %>" target="_blank">Read game story &raquo;</a>
+    <% if (twentySeventeen.link) { %>
+    <a href="<%= twentySeventeen.link %>" target="_blank">Read game story &raquo;</a>
     <% } %>
   </div>
   <div class="cell">

@@ -17,7 +17,7 @@ for (var key in seasonData) {
     if (item.notes) item.notes = item.notes.trim();
   }
 }
-seasonData[2016] = seasonData[2016].filter(function(g) { return g.won });
+seasonData[2017] = seasonData[2017].filter(function(g) { return g.won });
 %><!doctype html>
 <html>
   <head>
@@ -41,15 +41,16 @@ seasonData[2016] = seasonData[2016].filter(function(g) { return g.won });
           <canvas class="tracker"></canvas>
         </div>
         <ul class="key"></ul>
+
+        <div class="swelmet">
+          <%= t.include("partials/_swelmet.html") %>
+        </div>
+
         <div class="credit">
           Thomas Wilburn, Sean Quinton / The Seattle Times
         </div>
         <div class="date">
           Last updated: <%= require("moment")().format("MMM DD, YYYY [at] hh:mma") %>
-        </div>
-
-        <div>
-          <%= t.include("partials/_swelmet.html") %>
         </div>
       </main>
     </responsive-child>
