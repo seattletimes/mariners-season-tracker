@@ -18,7 +18,6 @@ var yearNotes = {
   1978: "Worst season",
   1995: "First playoffs",
   2001: "Best season",
-  2015: "_____ season",
   2016: "Last season",
   2017: "Current  season"
 };
@@ -32,9 +31,8 @@ var palette = {
   1978: rgba(0, 0, 0, .7),
   1995: hexToRGBA(0x56617d, .7),
   2001: hexToRGBA(0x269ba5, .7),
-  2015: hexToRGBA(0x003166, .7),
-  2016: hexToRGBA(0xf88a47, 1),
-  2017: hexToRGBA(0x19908d, .7) // needs another color
+  2016: hexToRGBA(0x003166, .7),
+  2017: hexToRGBA(0xf88a47, 1) // needs another color
 };
 var padding = 2;
 var offLine = 2;
