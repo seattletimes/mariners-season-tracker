@@ -4,80 +4,132 @@
     "won": "L",
     "date": "4/3/2017",
     "opponent": "at Astros",
-    "score": "3-0"
+    "score": "3-0",
+    "link": "http://www.seattletimes.com/sports/mariners/open-and-shutout-mariners-get-blanked-and-felix-hernandez-leaves-early-in-loss-to-houston-astros/"
   },
   {
     " game": 2,
     "won": "L",
     "date": "4/4/2017",
     "opponent": "at Astros",
-    "score": "2-1"
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/the-mariners-are-0-2-with-one-run-scored-after-another-loss-to-astros/"
   },
   {
     " game": 3,
     "won": "L",
     "date": "4/5/2017",
     "opponent": "at Astros",
-    "score": "5-3"
+    "score": "5-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-in-extra-innings-in-houston-to-remain-winless/"
   },
   {
     " game": 4,
     "won": "W",
     "date": "4/6/2017",
     "opponent": "at Astros",
-    "score": "4-2"
+    "score": "4-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-pick-up-first-win-to-salvage-series-finale-at-houston/"
   },
   {
     " game": 5,
     "won": "L",
     "date": "4/7/2017",
     "opponent": "at Angels",
-    "score": "5-1"
+    "score": "5-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-find-no-production-against-los-angeles-angels/"
   },
   {
     " game": 6,
     "won": "L",
     "date": "4/8/2017",
     "opponent": "at Angels",
-    "score": "5-4"
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mike-trouts-big-homer-crushes-mariners-hopes-in-5-4-loss/"
   },
   {
     " game": 7,
     "won": "L",
     "date": "4/9/2017",
     "opponent": "at Angels",
-    "score": "10-9"
+    "score": "10-9",
+    "link": "http://www.seattletimes.com/sports/mariners/angels-rally-with-six-runs-in-ninth-inning-to-complete-sweep-of-mariners/"
   },
   {
     " game": 8,
     "won": "W",
     "date": "4/10/2017",
     "opponent": "vs Astros",
-    "score": "6-0"
+    "score": "6-0",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-dominant-as-mariners-blank-astros-in-home-opener/"
   },
   {
-    " game": 9
+    " game": 9,
+    "won": "L",
+    "date": "4/11/2017",
+    "opponent": "vs Astros",
+    "score": "7-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-to-astros-and-fall-to-2-7-on-season/"
   },
   {
-    " game": 10
+    " game": 10,
+    "won": "L",
+    "date": "4/12/2017",
+    "opponent": "vs Astros",
+    "score": "10-5",
+    "notes": "Mariners plummet to 2-8 on the season after another ugly loss",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2017/04/04122017_MarinersAstrosNew_220356-1560x1089.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-blow-5-0-lead-lose-to-astros-and-fall-to-2-8-on-season/"
   },
   {
-    " game": 11
+    " game": 11,
+    "won": "W",
+    "date": "4/14/2017",
+    "opponent": "vs Rangers",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/felix-hernandez-gives-the-mariners-an-efficient-outing-in-a-2-1-win/"
   },
   {
-    " game": 12
+    " game": 12,
+    "won": "W",
+    "date": "4/15/2017",
+    "opponent": "vs Rangers",
+    "score": "5-0",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-arriving-at-ace-status-for-mariners-after-shutting-down-rangers/"
   },
   {
-    " game": 13
+    " game": 13,
+    "won": "W",
+    "date": "4/16/2017",
+    "opponent": "vs Rangers",
+    "score": "8-7",
+    "notes": "Nelson Cruz walkoff hit caps comeback effort as Mariners sweep Rangers",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2017/04/38af58be-2304-11e7-acac-12f31664b1e3-1560x1089.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-drives-home-winning-run-in-bottom-of-ninth-as-mariners-rally-to-sweep-rangers/"
   },
   {
-    " game": 14
+    " game": 14,
+    "won": "W",
+    "date": "4/17/2017",
+    "opponent": "vs Marlins",
+    "score": "6-1",
+    "link": "http://www.seattletimes.com/sports/ariel-miranda-throws-seven-scoreless-innings-leads-mariners-win/"
   },
   {
-    " game": 15
+    " game": 15,
+    "won": "L",
+    "date": "4/18/2017",
+    "opponent": "vs Marlins",
+    "score": "5-0",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-nearly-no-hit-in-5-0-loss-to-marlins/"
   },
   {
-    " game": 16
+    " game": 16,
+    "won": "W",
+    "date": "4/19",
+    "opponent": "vs Marlins",
+    "score": "10-5",
+    "link": "http://www.seattletimes.com/sports/mariners/ichiro-suzukis-solo-homer-provides-another-safeco-field-memory-in-his-return-to-seattle/"
   },
   {
     " game": 17
