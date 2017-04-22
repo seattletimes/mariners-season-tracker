@@ -132,7 +132,12 @@
     "link": "http://www.seattletimes.com/sports/mariners/ichiro-suzukis-solo-homer-provides-another-safeco-field-memory-in-his-return-to-seattle/"
   },
   {
-    " game": 17
+    " game": 17,
+    "won": "L",
+    "date": "4/20",
+    "opponent": "at Athletics",
+    "score": "9-6",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxtons-scoreless-streak-hits-a-road-bump-mariners-lose-at-oakland/"
   },
   {
     " game": 18
