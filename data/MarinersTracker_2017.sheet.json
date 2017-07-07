@@ -140,136 +140,368 @@
     "link": "http://www.seattletimes.com/sports/mariners/james-paxtons-scoreless-streak-hits-a-road-bump-mariners-lose-at-oakland/"
   },
   {
-    " game": 18
+    " game": 18,
+    "won": "L",
+    "date": "4/21",
+    "opponent": "at Athletics",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-road-woes-continue-as-their-bats-stay-silent-in-oakland/"
   },
   {
-    " game": 19
+    " game": 19,
+    "won": "L",
+    "date": "4/22",
+    "opponent": "at Athletics",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-continue-road-struggles-in-4-3-loss-at-oakland/"
   },
   {
-    " game": 20
+    " game": 20,
+    "won": "W",
+    "date": "4/23",
+    "opponent": "at Athletics",
+    "score": "11-1",
+    "notes": "After designating CF Leonys Martin for assignment, the M's rattled off a season-high 11 runs in a win over the A's",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2017/04/5018c7e6-2882-11e7-93fb-2f36ab5b3386.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-11-1-after-leonys-martin-designated-for-assignment/"
   },
   {
-    " game": 21
+    " game": 21,
+    "won": "L",
+    "date": "4/25",
+    "opponent": "at Tigers",
+    "score": "19-9",
+    "notes": "One of the worst days for the Mariners in recent memory sees Felix Hernandez and Mitch Haniger hit the DL while the M's are decimated by the Tigers without them.",
+    "link": "http://www.seattletimes.com/sports/mariners/its-an-ugly-one-mariners-lose-19-9-at-detroit/"
   },
   {
-    " game": 22
+    " game": 22,
+    "won": "W",
+    "date": "4/26",
+    "opponent": "at Tigers",
+    "score": "8-0",
+    "link": "http://www.seattletimes.com/sports/mariners/james-paxton-throws-seven-shutout-innings-against-detroit/"
   },
   {
-    " game": 23
+    " game": 23,
+    "won": "W",
+    "date": "4/27",
+    "opponent": "at Tigers",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/hisashi-iwakuma-edwin-diaz-help-mariners-pull-out-win-over-tigers/"
   },
   {
-    " game": 24
+    " game": 24,
+    "won": "W",
+    "date": "4/28",
+    "opponent": "at Indians",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-use-good-pitching-pair-of-homers-to-win-third-straight-on-road/"
   },
   {
-    " game": 25
+    " game": 25,
+    "won": "L",
+    "date": "4/29/2017",
+    "opponent": "at Indians",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-cant-hold-early-lead-fall-4-3-at-cleveland/"
   },
   {
-    " game": 26
+    " game": 26,
+    "won": "L",
+    "date": "4/30/2017",
+    "opponent": "at Indians",
+    "score": "12-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-looking-for-answers-following-12-4-loss-to-indians/"
   },
   {
-    " game": 27
+    " game": 27,
+    "won": "L",
+    "date": "5/2/2017",
+    "opponent": "vs Angels",
+    "score": "6-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-suffer-tough-loss-in-long-night-against-angels/"
   },
   {
-    " game": 28
+    " game": 28,
+    "won": "W",
+    "date": "5/3/2017",
+    "opponent": "vs Angels",
+    "score": "8-7",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-rally-for-wild-8-7-victory-over-angels/"
   },
   {
-    " game": 29
+    " game": 29,
+    "won": "W",
+    "date": "5/4/2017",
+    "opponent": "vs Angels",
+    "score": "11-3",
+    "link": "http://www.seattletimes.com/sports/mariners/ariel-miranda-impressive-as-mariners-win-another-home-series/"
   },
   {
-    " game": 30
+    " game": 30,
+    "won": "L",
+    "date": "5/5/2017",
+    "opponent": "vs Rangers",
+    "score": "3-1",
+    "notes": "Hours after putting James Paxton on the DL with a strained left forearm, the Mariners lose a 5-hour, 13-inning game to the Rangers, and two more relievers are injured in the process.",
+    "photo": "http://static.seattletimes.com/wp-content/uploads/2017/05/952c5a78-3223-11e7-9151-2a01a7276e40.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/rougned-odors-homer-in-13th-dooms-ms/"
   },
   {
-    " game": 31
+    " game": 31,
+    "won": "W",
+    "date": "5/6/2017",
+    "opponent": "vs Rangers",
+    "score": "8-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-score-seven-in-seventh-roll-past-texas/"
   },
   {
-    " game": 32
+    " game": 32,
+    "won": "W",
+    "date": "5/7/2017",
+    "opponent": "vs Rangers",
+    "score": "4-3",
+    "link": "http://www.seattletimes.com/sports/mariners/kyle-seagers-late-homer-gives-mariners-4-3-victory-over-rangers/"
   },
   {
-    " game": 33
+    " game": 33,
+    "won": "W",
+    "date": "5/9/2017",
+    "opponent": "at Phillies",
+    "score": "10-9",
+    "link": "http://www.seattletimes.com/sports/mariners/ben-gamel-taylor-motter-help-mariners-overcome-two-four-run-deficits-win-10-9/"
   },
   {
-    " game": 34
+    " game": 34,
+    "won": "W",
+    "date": "5/10/2017",
+    "opponent": "at Phillies",
+    "score": "11-4",
+    "notes": "Mariners get to .500 for the first time all season",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-get-to-500-finish-off-two-game-sweep-of-phillies/"
   },
   {
-    " game": 35
+    " game": 35,
+    "won": "L",
+    "date": "5/11/2017",
+    "opponent": "at Blue Jays",
+    "score": "7-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-give-up-five-runs-after-two-quick-outs-in-the-fifth-lose-7-2/"
   },
   {
-    " game": 36
+    " game": 36,
+    "won": "L",
+    "date": "5/12/2017",
+    "opponent": "at Blue Jays",
+    "score": "4-0",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-offense-shut-down-again-in-4-0-loss-to-toronto/"
   },
   {
-    " game": 37
+    " game": 37,
+    "won": "L",
+    "date": "5/13/2017",
+    "opponent": "at Blue Jays",
+    "score": "7-2",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-yet-another-pitcher-in-another-loss-in-toronto/"
   },
   {
-    " game": 38
+    " game": 38,
+    "won": "L",
+    "date": "5/14/2017",
+    "opponent": "at Blue Jays",
+    "score": "3-2",
+    "link": "http://www.seattletimes.com/sports/mariners/kevin-pillar-homer-off-edwin-diaz-completes-four-game-sweep-of-mariners/"
   },
   {
-    " game": 39
+    " game": 39,
+    "won": "W",
+    "date": "5/15/2017",
+    "opponent": "vs A's",
+    "score": "6-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-hold-on-after-some-scary-relief/"
   },
   {
-    " game": 40
+    " game": 40,
+    "won": "L",
+    "date": "5/16/2017",
+    "opponent": "vs A's",
+    "score": "9-6",
+    "link": "http://www.seattletimes.com/sports/mariners/new-closer-but-mariners-cant-find-relief-in-loss-to-oakland/"
   },
   {
-    " game": 41
+    " game": 41,
+    "won": "W",
+    "date": "5/17/2017",
+    "opponent": "vs A's",
+    "score": "4-0",
+    "link": "http://www.seattletimes.com/sports/mariners/christian-bergman-mariners-shut-down-oakland-4-0/"
   },
   {
-    " game": 42
+    " game": 42,
+    "won": "W",
+    "date": "5/18/2017",
+    "opponent": "vs White Sox",
+    "score": "5-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-earn-a-walkoff-victory-after-bullpen-falters-again-against-chicago-white-sox/"
   },
   {
-    " game": 43
+    " game": 43,
+    "won": "L",
+    "date": "5/19/2017",
+    "opponent": "vs White Sox",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-notch-just-one-hit-lose-2-1-in-10-innings/"
   },
   {
-    " game": 44
+    " game": 44,
+    "won": "L",
+    "date": "5/20/2017",
+    "opponent": "vs White Sox",
+    "score": "16-1",
+    "notes": "Mariners sink to bottom of AL West",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/05/f3ad61b4-3dd1-11e7-99c3-e150a94a064c.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-sink-to-bottom-of-al-west-as-white-sox-slap-around-yovani-gallardo/"
   },
   {
-    " game": 45
+    " game": 45,
+    "won": "L",
+    "date": "5/21/2017",
+    "opponent": "vs White Sox",
+    "score": "8-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-sink-to-bottom-of-al-west-as-white-sox-slap-around-yovani-gallardo/"
   },
   {
-    " game": 46
+    " game": 46,
+    "won": "L",
+    "date": "5/23/2017",
+    "opponent": "at Nationals",
+    "score": "10-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-lose-to-nationals-10-1/"
   },
   {
-    " game": 47
+    " game": 47,
+    "won": "L",
+    "date": "5/24",
+    "opponent": "at Nationals",
+    "score": "5-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-bats-stay-quiet-in-5-1-loss-to-nationals/"
   },
   {
-    " game": 48
+    " game": 48,
+    "won": "W",
+    "date": "5/25/2017",
+    "opponent": "at Nationals",
+    "score": "4-2",
+    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-powers-mariners-past-nationals-ending-five-game-losing-streak/"
   },
   {
-    " game": 49
+    " game": 49,
+    "won": "L",
+    "date": "5/26/2017",
+    "opponent": "at Red Sox",
+    "score": "3-0",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-shut-out-in-boston/"
   },
   {
-    " game": 50
+    " game": 50,
+    "won": "L",
+    "date": "5/27/2017",
+    "opponent": "at Red Sox",
+    "score": "6-0",
+    "notes": "This is embarrassing.' Mariners suffer seventh loss in eight games, sink to 8 games below .500.",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/05/3544ffc6-432f-11e7-8f1c-01f5daa8e012.jpg",
+    "link": "\nhttp://www.seattletimes.com/sports/mariners/mariners-blanked-again-in-boston/"
   },
   {
-    " game": 51
+    " game": 51,
+    "won": "W",
+    "date": "5/28/2017",
+    "opponent": "at Red Sox",
+    "score": "5-0",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-avoid-being-swept-and-shut-out-in-boston-with-a-5-0-victory/"
   },
   {
-    " game": 52
+    " game": 52,
+    "won": "W",
+    "date": "5/29/2017",
+    "opponent": "at Rockies",
+    "score": "6-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-earn-second-straight-win-6-5-over-colorado/"
   },
   {
-    " game": 53
+    " game": 53,
+    "won": "W",
+    "date": "5/30/2017",
+    "opponent": "at Rockies",
+    "score": "10-4",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-again-to-finish-off-solid-4-4-road-trip-but-nelson-cruz-injured/"
   },
   {
-    " game": 54
+    " game": 54,
+    "won": "W",
+    "date": "5/31/2017",
+    "opponent": "vs Rockies",
+    "score": "5-0",
+    "link": "http://www.seattletimes.com/sports/mariners/return-of-james-paxton-provides-a-boost-as-mariners-win-4th-straight/"
   },
   {
-    " game": 55
+    " game": 55,
+    "won": "L",
+    "date": "6/1/2017",
+    "opponent": "vs Rockies",
+    "score": "6-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-four-game-winning-streak-ends-as-jean-segura-nelson-cruz-leave-with-injuries/"
   },
   {
-    " game": 56
+    " game": 56,
+    "won": "W",
+    "date": "6/2/2017",
+    "opponent": "vs Rays",
+    "score": "12-4",
+    "link": "http://www.seattletimes.com/sports/mariners/taylor-motters-grand-slam-in-first-leads-mariners-on-a-12-4-rout-of-tampa-bay/"
   },
   {
-    " game": 57
+    " game": 57,
+    "won": "W",
+    "date": "6/3/2017",
+    "opponent": "vs Rays",
+    "score": "9-2",
+    "link": "http://www.seattletimes.com/sports/mariners/grandest-day-mike-zunino-hits-first-grand-slam-drives-in-career-best-seven/"
   },
   {
-    " game": 58
+    " game": 58,
+    "won": "W",
+    "date": "6/4/2017",
+    "opponent": "vs Rays",
+    "score": "7-1",
+    "link": "http://www.seattletimes.com/sports/mariners/ariel-miranda-throws-complete-game-as-mariners-complete-sweep-of-rays/"
   },
   {
-    " game": 59
+    " game": 59,
+    "won": "W",
+    "date": "6/6/2017",
+    "opponent": "vs Twins",
+    "score": "12-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-win-another-blowout-giving-more-reason-to-believe/"
   },
   {
-    " game": 60
+    " game": 60,
+    "won": "W",
+    "date": "6/7/2017",
+    "opponent": "vs Twins",
+    "score": "6-5",
+    "notes": "Magic and the corner of Edgar and Dave': With 2 outs in the 9th, Mike Zunino drills a walkoff two-run homer to center field, giving the Mariners their ninth win in ten games and bringing the team back to .500.",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/06/af875102-4c09-11e7-a7fb-e33fe9b95292.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mike-zuninos-ninth-inning-homer-lifts-mariners-to-6-5-win-back-to-500/"
   },
   {
-    " game": 61
+    " game": 61,
+    "won": "L",
+    "date": "6/8/2017",
+    "opponent": "vs Twins",
+    "score": "2-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-vs-twins-live-updates-as-seattle-looks-to-go-above-500-for-first-time-in-2017/"
   },
   {
     " game": 62

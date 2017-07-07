@@ -1,6 +1,18 @@
 [
   {
     "name": "James Paxton",
+    "times_received": 4
+  },
+  {
+    "name": "Robinson Cano",
+    "times_received": 3
+  },
+  {
+    "name": "Christian Bergman",
+    "times_received": 2
+  },
+  {
+    "name": "Ben Gamel",
     "times_received": 2
   },
   {
@@ -8,11 +20,47 @@
     "times_received": 2
   },
   {
+    "name": "Ariel Miranda",
+    "times_received": 2
+  },
+  {
+    "name": "Kyle Seager",
+    "times_received": 2
+  },
+  {
+    "name": "Mike Zunino",
+    "times_received": 2
+  },
+  {
+    "name": "Nelson Cruz",
+    "times_received": 1
+  },
+  {
+    "name": "Yovani Gallardo",
+    "times_received": 1
+  },
+  {
     "name": "Felix Hernandez",
     "times_received": 1
   },
   {
-    "name": "Ariel Miranda",
+    "name": "Jean Segura",
+    "times_received": 1
+  },
+  {
+    "name": "Danny Valencia",
+    "times_received": 1
+  },
+  {
+    "name": "Tony Zych",
+    "times_received": 1
+  },
+  {
+    "name": "Guillermo Heredia",
+    "times_received": 1
+  },
+  {
+    "name": "Taylor Motter",
     "times_received": 1
   }
 ]
