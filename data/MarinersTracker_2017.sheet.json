@@ -504,82 +504,194 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-vs-twins-live-updates-as-seattle-looks-to-go-above-500-for-first-time-in-2017/"
   },
   {
-    " game": 62
+    " game": 62,
+    "won": "W",
+    "date": "6/9",
+    "opponent": "vs Blue Jays",
+    "score": "4-2"
   },
   {
-    " game": 63
+    " game": 63,
+    "won": "L",
+    "date": "6/10/17",
+    "opponent": "vs Blue Jays",
+    "score": "4-2"
   },
   {
-    " game": 64
+    " game": 64,
+    "won": "L",
+    "date": "6/11/17",
+    "opponent": "vs Blue Jays",
+    "score": "4-0"
   },
   {
-    " game": 65
+    " game": 65,
+    "won": "W",
+    "date": "6/12/17",
+    "opponent": "at Minnesota",
+    "score": "14-3"
   },
   {
-    " game": 66
+    " game": 66,
+    "won": "L",
+    "date": "6/13/17",
+    "opponent": "at Minnesota",
+    "score": "20-7"
   },
   {
-    " game": 67
+    " game": 67,
+    "won": "W",
+    "date": "6/14/17",
+    "opponent": "at Minnesota",
+    "score": "6-4"
   },
   {
-    " game": 68
+    " game": 68,
+    "won": "L",
+    "date": "6/15/17",
+    "opponent": "at Minnesota",
+    "score": "6-2"
   },
   {
-    " game": 69
+    " game": 69,
+    "won": "L",
+    "date": "6/16/17",
+    "opponent": "at Texas",
+    "score": "10-4"
   },
   {
-    " game": 70
+    " game": 70,
+    "won": "L",
+    "date": "6/17/17",
+    "opponent": "at Texas",
+    "score": "10-4"
   },
   {
-    " game": 71
+    " game": 71,
+    "won": "W",
+    "date": "6/18/17",
+    "opponent": "at Texas",
+    "score": "7-3"
   },
   {
-    " game": 72
+    " game": 72,
+    "won": "W",
+    "date": "6/19/17",
+    "opponent": "vs Tigers",
+    "score": "6-2"
   },
   {
-    " game": 73
+    " game": 73,
+    "won": "W",
+    "date": "6/20/17",
+    "opponent": "vs Tigers",
+    "score": "5-4"
   },
   {
-    " game": 74
+    " game": 74,
+    "won": "W",
+    "date": "6/21/17",
+    "opponent": "vs Tigers",
+    "score": "7-5"
   },
   {
-    " game": 75
+    " game": 75,
+    "won": "W",
+    "date": "6/22/17",
+    "opponent": "vs Tigers",
+    "score": "9-6",
+    "notes": "Andrew Moore makes his MLB debut and M's get above .500 for 1st time in 2017",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/06/3f2e6884-57ce-11e7-9def-a071a1057b75.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/rookie-andrew-moore-shines-in-his-debut-and-red-hot-mariners-win-5th-straight/"
   },
   {
-    " game": 76
+    " game": 76,
+    "won": "W",
+    "date": "6/23/17",
+    "opponent": "vs Astros",
+    "score": "13-3",
+    "notes": "Felix Hernandez returns from injury as Mariners beat down the first-place Astros ",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/06/9fae9120-5896-11e7-ba48-b48d4b26961b.jpg"
   },
   {
-    " game": 77
+    " game": 77,
+    "won": "L",
+    "date": "6/24/17",
+    "opponent": "vs Astros",
+    "score": "5-2"
   },
   {
-    " game": 78
+    " game": 78,
+    "won": "L",
+    "date": "6/25/17",
+    "opponent": "vs Astros",
+    "score": "8-2"
   },
   {
-    " game": 79
+    " game": 79,
+    "won": "L",
+    "date": "6/27/17",
+    "opponent": "vs Phillies",
+    "score": "8-2"
   },
   {
-    " game": 80
+    " game": 80,
+    "won": "L",
+    "date": "6/28/17",
+    "opponent": "vs Phillies",
+    "score": "5-4"
   },
   {
-    " game": 81
+    " game": 81,
+    "won": "W",
+    "date": "6/30/17",
+    "opponent": "at Angels",
+    "score": "10-0"
   },
   {
-    " game": 82
+    " game": 82,
+    "won": "L",
+    "date": "7/1/17",
+    "opponent": "at Angels",
+    "score": "4-0"
   },
   {
-    " game": 83
+    " game": 83,
+    "won": "W",
+    "date": "7/2",
+    "opponent": "at Angels",
+    "score": "5-3"
   },
   {
-    " game": 84
+    " game": 84,
+    "won": "L",
+    "date": "7/3/17",
+    "opponent": "vs Royals",
+    "score": "3-1"
   },
   {
-    " game": 85
+    " game": 85,
+    "won": "L",
+    "date": "7/4/17",
+    "opponent": "vs Royals",
+    "score": "7-3"
   },
   {
-    " game": 86
+    " game": 86,
+    "won": "L",
+    "date": "7-5",
+    "opponent": "vs Royals",
+    "score": "9-6"
   },
   {
-    " game": 87
+    " game": 87,
+    "won": "L",
+    "date": "7/6/17",
+    "opponent": "vs A's",
+    "score": "7-4",
+    "notes": "Losers of eight striaght home games, Mariners in danger of seeing once promising season slip away",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/07/202321_mari292791_114641.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-in-danger-of-seeing-once-promising-season-slip-away/"
   },
   {
     " game": 88

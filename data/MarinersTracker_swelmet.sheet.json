@@ -1,10 +1,22 @@
 [
   {
+    "name": "Robinson Cano",
+    "times_received": 5
+  },
+  {
     "name": "James Paxton",
     "times_received": 4
   },
   {
-    "name": "Robinson Cano",
+    "name": "Kyle Seager",
+    "times_received": 4
+  },
+  {
+    "name": "Mitch Haniger",
+    "times_received": 3
+  },
+  {
+    "name": "Mike Zunino",
     "times_received": 3
   },
   {
@@ -12,11 +24,15 @@
     "times_received": 2
   },
   {
+    "name": "Edwin Diaz",
+    "times_received": 2
+  },
+  {
     "name": "Ben Gamel",
     "times_received": 2
   },
   {
-    "name": "Mitch Haniger",
+    "name": "Felix Hernandez",
     "times_received": 2
   },
   {
@@ -24,23 +40,15 @@
     "times_received": 2
   },
   {
-    "name": "Kyle Seager",
-    "times_received": 2
-  },
-  {
-    "name": "Mike Zunino",
-    "times_received": 2
-  },
-  {
     "name": "Nelson Cruz",
     "times_received": 1
   },
   {
-    "name": "Yovani Gallardo",
+    "name": "Jarrod Dyson",
     "times_received": 1
   },
   {
-    "name": "Felix Hernandez",
+    "name": "Yovani Gallardo",
     "times_received": 1
   },
   {
@@ -61,6 +69,10 @@
   },
   {
     "name": "Taylor Motter",
+    "times_received": 1
+  },
+  {
+    "name": "Andrew Moore",
     "times_received": 1
   }
 ]
