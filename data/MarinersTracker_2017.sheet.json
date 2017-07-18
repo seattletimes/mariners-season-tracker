@@ -694,13 +694,25 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-in-danger-of-seeing-once-promising-season-slip-away/"
   },
   {
-    " game": 88
+    " game": 88,
+    "won": "W",
+    "date": "7/7/17",
+    "opponent": "vs A's",
+    "score": "7-2"
   },
   {
-    " game": 89
+    " game": 89,
+    "won": "L",
+    "date": "7/8/17",
+    "opponent": "vs A's",
+    "score": "4-3"
   },
   {
-    " game": 90
+    " game": 90,
+    "won": "W",
+    "date": "7/9/17",
+    "opponent": "vs A's ",
+    "score": "4-0"
   },
   {
     " game": 91
