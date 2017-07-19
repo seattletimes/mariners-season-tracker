@@ -712,19 +712,39 @@
     "won": "W",
     "date": "7/9/17",
     "opponent": "vs A's ",
-    "score": "4-0"
+    "score": "4-0",
+    "notes": "Mariners enter All-Star break a disappointing three games under .500"
   },
   {
-    " game": 91
+    " game": 91,
+    "won": "W",
+    "date": "7/14/17",
+    "opponent": "at White Sox",
+    "score": "4-2"
   },
   {
-    " game": 92
+    " game": 92,
+    "won": "W",
+    "date": "7/15/17",
+    "opponent": "at White Sox",
+    "score": "4-3"
   },
   {
-    " game": 93
+    " game": 93,
+    "won": "W",
+    "date": "7/16/17",
+    "opponent": "at White Sox",
+    "score": "7-6"
   },
   {
-    " game": 94
+    " game": 94,
+    "won": "W",
+    "date": "7/17/17",
+    "opponent": "at Astros",
+    "score": "9-7",
+    "notes": "What a game! The Mariners outlast Houston and hang on for one of their best wins of the season.",
+    "photo": "https://static.seattletimes.com/wp-content/uploads/2017/07/07172017_MarinersAstros03_213023_tzr.jpg",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-beat-astros-in-10-innings-after-jean-segura-comes-up-big-in-the-ninth/"
   },
   {
     " game": 95

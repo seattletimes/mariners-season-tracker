@@ -24,6 +24,10 @@
     "times_received": 2
   },
   {
+    "name": "Nelson Cruz",
+    "times_received": 2
+  },
+  {
     "name": "Edwin Diaz",
     "times_received": 2
   },
@@ -40,8 +44,12 @@
     "times_received": 2
   },
   {
-    "name": "Nelson Cruz",
-    "times_received": 1
+    "name": "Jean Segura",
+    "times_received": 2
+  },
+  {
+    "name": "Danny Valencia",
+    "times_received": 2
   },
   {
     "name": "Jarrod Dyson",
@@ -49,14 +57,6 @@
   },
   {
     "name": "Yovani Gallardo",
-    "times_received": 1
-  },
-  {
-    "name": "Jean Segura",
-    "times_received": 1
-  },
-  {
-    "name": "Danny Valencia",
     "times_received": 1
   },
   {
