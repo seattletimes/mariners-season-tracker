@@ -747,13 +747,25 @@
     "link": "http://www.seattletimes.com/sports/mariners/mariners-beat-astros-in-10-innings-after-jean-segura-comes-up-big-in-the-ninth/"
   },
   {
-    " game": 95
+    " game": 95,
+    "won": "L",
+    "date": "7/18/17",
+    "opponent": "at Astros",
+    "score": "6-2"
   },
   {
-    " game": 96
+    " game": 96,
+    "won": "W",
+    "date": "7/19/17",
+    "opponent": "at Astros",
+    "score": "4-1"
   },
   {
-    " game": 97
+    " game": 97,
+    "won": "L",
+    "date": "7/20/17",
+    "opponent": "vs Yankees",
+    "score": "4-1"
   },
   {
     " game": 98
