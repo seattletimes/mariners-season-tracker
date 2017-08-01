@@ -1,7 +1,7 @@
 [
   {
     "name": "James Paxton",
-    "times_received": 6
+    "times_received": 7
   },
   {
     "name": "Robinson Cano",
@@ -56,11 +56,11 @@
     "times_received": 2
   },
   {
-    "name": "Jarrod Dyson",
-    "times_received": 1
+    "name": "Yovani Gallardo",
+    "times_received": 2
   },
   {
-    "name": "Yovani Gallardo",
+    "name": "Jarrod Dyson",
     "times_received": 1
   },
   {
@@ -73,6 +73,10 @@
   },
   {
     "name": "Andrew Moore",
+    "times_received": 1
+  },
+  {
+    "name": "Carlos Ruiz",
     "times_received": 1
   }
 ]
