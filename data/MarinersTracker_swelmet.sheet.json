@@ -1,11 +1,11 @@
 [
   {
-    "name": "Robinson Cano",
-    "times_received": 5
+    "name": "James Paxton",
+    "times_received": 6
   },
   {
-    "name": "James Paxton",
-    "times_received": 4
+    "name": "Robinson Cano",
+    "times_received": 5
   },
   {
     "name": "Kyle Seager",
@@ -20,6 +20,10 @@
     "times_received": 3
   },
   {
+    "name": "Ben Gamel",
+    "times_received": 3
+  },
+  {
     "name": "Christian Bergman",
     "times_received": 2
   },
@@ -29,10 +33,6 @@
   },
   {
     "name": "Edwin Diaz",
-    "times_received": 2
-  },
-  {
-    "name": "Ben Gamel",
     "times_received": 2
   },
   {
@@ -52,6 +52,10 @@
     "times_received": 2
   },
   {
+    "name": "Guillermo Heredia",
+    "times_received": 2
+  },
+  {
     "name": "Jarrod Dyson",
     "times_received": 1
   },
@@ -61,10 +65,6 @@
   },
   {
     "name": "Tony Zych",
-    "times_received": 1
-  },
-  {
-    "name": "Guillermo Heredia",
     "times_received": 1
   },
   {
