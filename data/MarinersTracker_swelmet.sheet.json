@@ -24,11 +24,15 @@
     "times_received": 3
   },
   {
-    "name": "Christian Bergman",
-    "times_received": 2
+    "name": "Jarrod Dyson",
+    "times_received": 3
   },
   {
     "name": "Nelson Cruz",
+    "times_received": 3
+  },
+  {
+    "name": "Christian Bergman",
     "times_received": 2
   },
   {
@@ -60,10 +64,6 @@
     "times_received": 2
   },
   {
-    "name": "Jarrod Dyson",
-    "times_received": 1
-  },
-  {
     "name": "Tony Zych",
     "times_received": 1
   },
@@ -77,6 +77,10 @@
   },
   {
     "name": "Carlos Ruiz",
+    "times_received": 1
+  },
+  {
+    "name": "Leonys Martin",
     "times_received": 1
   }
 ]
