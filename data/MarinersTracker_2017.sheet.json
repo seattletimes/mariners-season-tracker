@@ -900,31 +900,72 @@
     "won": "W",
     "date": "8/9/17",
     "opponent": "at Athletics",
-    "score": "6-3"
+    "score": "6-3",
+    "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-hits-two-homers-mariners-move-three-games-over-500/"
   },
   {
-    " game": 116
+    " game": 116,
+    "won": "L",
+    "date": "8/10/17",
+    "opponent": "vs Angels",
+    "score": "6-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mike-trouts-bases-clearing-double-in-9th-buries-mariners/"
   },
   {
-    " game": 117
+    " game": 117,
+    "won": "L",
+    "date": "8/11/17",
+    "opponent": "vs Angels",
+    "score": "6-5",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-feeling-even-more-pain-after-coughing-up-lead-against-angels/"
   },
   {
-    " game": 118
+    " game": 118,
+    "won": "L",
+    "date": "8/12/17",
+    "opponent": "vs Angels",
+    "score": "6-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-fall-back-to-500-after-blowing-another-late-lead/"
   },
   {
-    " game": 119
+    " game": 119,
+    "won": "L",
+    "date": "8/13/17",
+    "opponent": "vs Angels",
+    "score": "4-2",
+    "link": "http://www.seattletimes.com/sports/mariners/lost-weend-as-angels-finish-off-four-game-sweep/"
   },
   {
-    " game": 120
+    " game": 120,
+    "won": "L",
+    "date": "8/14",
+    "opponent": "vs Orioles",
+    "score": "11-3",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-misery-at-home-continues-with-fifth-consecutive-defeat/"
   },
   {
-    " game": 121
+    " game": 121,
+    "won": "W",
+    "date": "8/15/17",
+    "opponent": "vs Orioles",
+    "score": "3-1",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-snap-losing-skid-at-5-games/"
   },
   {
-    " game": 122
+    " game": 122,
+    "won": "W",
+    "date": "8/16/17",
+    "opponent": "vs Orioles",
+    "score": "7-6",
+    "link": "http://www.seattletimes.com/sports/mariners/mariners-survive-edwin-diazs-shaky-ninth-back-at-500/"
   },
   {
-    " game": 123
+    " game": 123,
+    "won": "W",
+    "date": "8/18/17",
+    "opponent": "at Rays",
+    "score": "7-1",
+    "link": "http://www.seattletimes.com/sports/mariners/erasmo-ramirez-returns-to-tampa-and-gives-mariners-rare-standout-start-to-beat-rays/"
   },
   {
     " game": 124
